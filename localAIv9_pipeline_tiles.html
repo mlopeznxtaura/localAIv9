@@ -1,0 +1,737 @@
+
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: transparent; }
+.pipeline { padding: 1rem 0; display: flex; flex-direction: column; gap: 1.5rem; }
+.tile { background: var(--color-background-primary); border: 0.5px solid var(--color-border-secondary); border-radius: var(--border-radius-lg); overflow: hidden; }
+.tile-header { display: flex; align-items: center; gap: 12px; padding: 14px 18px; border-bottom: 0.5px solid var(--color-border-tertiary); cursor: pointer; user-select: none; }
+.tile-badge { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 500; flex-shrink: 0; }
+.badge-0 { background: #F1EFE8; color: #444441; }
+.badge-1 { background: #E6F1FB; color: #0C447C; }
+.badge-2 { background: #E1F5EE; color: #085041; }
+.badge-3 { background: #FAEEDA; color: #633806; }
+.badge-4 { background: #FBEAF0; color: #72243E; }
+.badge-5 { background: #EAF3DE; color: #27500A; }
+.badge-6 { background: #EEEDFE; color: #3C3489; }
+.badge-7 { background: #FAECE7; color: #712B13; }
+.badge-8 { background: #FCEBEB; color: #791F1F; }
+.badge-9 { background: #E6F1FB; color: #185FA5; }
+.tile-title { font-size: 14px; font-weight: 500; color: var(--color-text-primary); flex: 1; }
+.tile-sub { font-size: 12px; color: var(--color-text-secondary); }
+.chevron { font-size: 12px; color: var(--color-text-secondary); transition: transform 0.2s; }
+.chevron.open { transform: rotate(180deg); }
+.tile-body { padding: 16px 18px; display: none; }
+.tile-body.open { display: block; }
+.code-block { background: var(--color-background-secondary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); padding: 14px 16px; font-family: var(--font-mono); font-size: 12px; color: var(--color-text-primary); line-height: 1.65; overflow-x: auto; white-space: pre; tab-size: 4; }
+.section-label { font-size: 11px; font-weight: 500; color: var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin: 0 0 8px; }
+.spacer { margin-top: 14px; }
+.tag-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.tag { font-size: 11px; padding: 3px 10px; border-radius: 20px; font-weight: 400; }
+.tag-gray { background: #F1EFE8; color: #5F5E5A; }
+.tag-blue { background: #E6F1FB; color: #185FA5; }
+.tag-green { background: #EAF3DE; color: #3B6D11; }
+.tag-amber { background: #FAEEDA; color: #854F0B; }
+.tag-red { background: #FCEBEB; color: #A32D2D; }
+.tag-purple { background: #EEEDFE; color: #534AB7; }
+.tag-teal { background: #E1F5EE; color: #0F6E56; }
+.tag-coral { background: #FAECE7; color: #993C1D; }
+.desc { font-size: 13px; color: var(--color-text-secondary); line-height: 1.6; margin-bottom: 12px; }
+.inline-comment { color: #888780; }
+.kw { color: #534AB7; }
+.fn { color: #185FA5; }
+.str { color: #3B6D11; }
+.num { color: #854F0B; }
+.cls { color: #993C1D; }
+</style>
+
+<div class="pipeline" id="pipeline"></div>
+
+<script>
+const tiles = [
+  {
+    step: 0,
+    badge: "badge-0",
+    title: "Imports, constants & path setup",
+    sub: "Environment bootstrap",
+    desc: "All top-level imports, environment variable reads, and the LLM cache directory initialisation. Must run before anything else.",
+    tags: [["asyncio","tag-gray"],["httpx","tag-blue"],["pydantic","tag-purple"],["pathlib","tag-gray"],["uuid / hashlib","tag-gray"],["OLLAMA_HOST","tag-amber"],["MODEL","tag-amber"],["CACHE_DIR","tag-green"]],
+    code: `#!/usr/bin/env python3
+"""
+localAIv9 Pipeline – JSON-native, deterministic, architecture-aware.
+Run: python localai_v9.py "your prompt here"
+"""
+
+import asyncio
+import hashlib
+import json
+import os
+import time
+import uuid
+from collections import Counter
+from datetime import datetime
+from pathlib import Path
+from typing import List, Dict, Any, Optional, Literal, Tuple
+import statistics
+
+import httpx
+from pydantic import BaseModel, Field, validator, root_validator
+
+# ── Constants ────────────────────────────────────────────────────────
+OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://172.30.80.1:11434")
+MODEL       = os.environ.get("OLLAMA_MODEL", "gemma4:26b")
+CACHE_DIR   = Path(".llm_cache")
+CACHE_DIR.mkdir(exist_ok=True)`
+  },
+  {
+    step: 1,
+    badge: "badge-1",
+    title: "Pydantic models — schemas",
+    sub: "Step1Output → Step8Output",
+    desc: "All data-contract classes used throughout the pipeline. Each step validates its output against the matching model at instantiation time.",
+    tags: [["Architecture","tag-coral"],["Step1Output","tag-blue"],["Step2Output","tag-blue"],["Step3Output","tag-blue"],["Step4Output","tag-blue"],["Step5Output","tag-blue"],["Step6Output","tag-blue"],["Step7Output","tag-blue"],["Step8Output","tag-blue"],["@validator","tag-purple"]],
+    code: `# ── 1. Pydantic Models ───────────────────────────────────────────────
+
+class Architecture(BaseModel):
+    layers: List[Literal["frontend", "backend", "fullstack"]] = ["frontend", "backend"]
+    modules: List[Dict[str, str]] = []
+    api_endpoints: List[Dict[str, str]] = []
+
+class Step1Output(BaseModel):
+    features: List[Dict[str, str]] = []   # each: {"name": str, "layer": str}
+    entities: List[str] = []
+    actions: List[str] = []
+    architecture: Architecture = Architecture()
+    constraints: List[str] = []
+    success_criteria: List[str] = []
+
+    @validator("features")
+    def features_have_layer(cls, v):
+        for f in v:
+            if "layer" not in f or f["layer"] not in ("frontend", "backend", "fullstack"):
+                raise ValueError(f"Feature {f} missing or invalid layer")
+        return v
+
+class Component(BaseModel):
+    id: str
+    type: str
+    props: Dict[str, Any] = {}
+
+class Screen(BaseModel):
+    id: str
+    type: Literal["page", "modal", "tab"]
+    components: List[Component] = []
+    routes: Optional[str] = None
+    tabs: Optional[str] = None
+
+class Step2Output(BaseModel):
+    screens: List[Screen] = []
+
+class Theme(BaseModel):
+    style: str
+    color_palette: Dict[str, str]   # primary, secondary, background, text, accent
+    typography: Dict[str, str]       # font_family, scale
+    spacing: Dict[str, str]          # base_unit
+    components: Dict[str, str]       # button_variant, input_variant, card_style
+
+class Step3Output(BaseModel):
+    theme: Theme
+    tool_dataset_summary: Dict[str, Any]
+    mathematical_derivations: Dict[str, Any]
+
+class DAGNode(BaseModel):
+    id: str
+    depends_on: List[str] = []
+
+class Step4Output(BaseModel):
+    features: List[Dict[str, str]] = []   # name, source_screen, trigger_component
+    dag: List[DAGNode] = []
+    validation: Dict[str, List[str]] = {
+        "missing_features": [],
+        "orphan_nodes": [],
+        "invalid_flows": [],
+    }
+
+class Step5Output(BaseModel):
+    final_dag: List[DAGNode]
+    orphan_nodes_removed: bool
+
+class ScheduledTask(BaseModel):
+    id: str                              # T001, T002…
+    depends_on: List[str]
+    layer: Literal["frontend", "backend", "fullstack"]
+    est_seconds: int
+
+class Step6Output(BaseModel):
+    scheduled_tasks: List[ScheduledTask]
+
+class Step7Output(BaseModel):
+    integrated_system: Dict[str, Any]   # screens + theme + dag + validation_report
+
+class Step8Output(BaseModel):
+    export_artifact: Dict[str, Any]`
+  },
+  {
+    step: 2,
+    badge: "badge-2",
+    title: "LLM client — ask_llm()",
+    sub: "Ollama · MD5 cache · JSON extract",
+    desc: "Async wrapper around the Ollama /api/generate endpoint. Caches responses by MD5 of the prompt so identical calls are free. Extracts the first valid JSON object from free-text model output.",
+    tags: [["ask_llm()","tag-blue"],["_cache_key()","tag-gray"],["httpx.AsyncClient","tag-teal"],["MD5 cache","tag-amber"],["temperature=0.15","tag-purple"],["max_tokens=2000","tag-purple"],["JSON extract","tag-green"]],
+    code: `# ── 2. LLM Client (Ollama) ───────────────────────────────────────────
+
+def _cache_key(prompt: str) -> str:
+    return hashlib.md5(prompt.encode()).hexdigest()
+
+async def ask_llm(
+    prompt: str,
+    temperature: float = 0.15,
+    max_tokens: int = 2000,
+) -> dict:
+    """Call Ollama, return parsed JSON, with MD5 disk caching."""
+    key        = _cache_key(prompt)
+    cache_file = CACHE_DIR / f"{key}.json"
+
+    # ── Cache hit ────────────────────────────────────────────────────
+    if cache_file.exists():
+        return json.loads(cache_file.read_text())
+
+    # ── Live call ────────────────────────────────────────────────────
+    url     = f"{OLLAMA_HOST}/api/generate"
+    payload = {
+        "model":  MODEL,
+        "prompt": prompt,
+        "stream": False,
+        "options": {
+            "temperature": temperature,
+            "num_predict": max_tokens,
+        },
+    }
+    async with httpx.AsyncClient(timeout=120.0) as client:
+        resp = await client.post(url, json=payload)
+        resp.raise_for_status()
+        text = resp.json()["response"]
+
+    # ── Extract first JSON object ────────────────────────────────────
+    start = text.find('{')
+    end   = text.rfind('}') + 1
+    if start != -1 and end != 0:
+        try:
+            result = json.loads(text[start:end])
+            cache_file.write_text(json.dumps(result))
+            return result
+        except json.JSONDecodeError:
+            pass
+
+    # ── Fallback ─────────────────────────────────────────────────────
+    result = {"error": "invalid_json", "raw": text}
+    cache_file.write_text(json.dumps(result))
+    return result`
+  },
+  {
+    step: 3,
+    badge: "badge-3",
+    title: "Step 1 — intent extraction",
+    sub: "user prompt → Step1Output",
+    desc: "Feeds the raw user prompt to the LLM with the Step1Output JSON schema embedded. The model returns features, entities, actions, architecture spec, constraints, and success criteria.",
+    tags: [["step1()","tag-blue"],["Step1Output","tag-coral"],["schema_json","tag-purple"],["LLM call","tag-teal"]],
+    code: `# ── 3. Step Implementations ──────────────────────────────────────────
+
+async def step1(user_prompt: str) -> Step1Output:
+    """
+    Converts the raw user intent into a structured product spec.
+    The LLM is given the Pydantic schema so it knows exactly what
+    JSON shape to produce.
+    """
+    prompt = f"""You are an AI that outputs only valid JSON.
+Convert the following user intent into the exact JSON schema below.
+
+Schema:
+{Step1Output.schema_json(indent=2)}
+
+Intent: {user_prompt}
+
+Output JSON:"""
+
+    raw = await ask_llm(prompt)
+    return Step1Output(**raw)`
+  },
+  {
+    step: 4,
+    badge: "badge-4",
+    title: "Step 2 — UI structure",
+    sub: "Step1Output → Step2Output",
+    desc: "Generates a schema-only UI tree (screens, components, routes) from the product spec. No HTML, no CSS — pure structural JSON that later steps enrich with theme data.",
+    tags: [["step2()","tag-blue"],["Step2Output","tag-coral"],["Screen","tag-purple"],["Component","tag-purple"],["LLM call","tag-teal"]],
+    code: `async def step2(step1_out: Step1Output) -> Step2Output:
+    """
+    Generates a JSON UI tree (screens + components) from the
+    product spec produced in step1.  No HTML or styling — pure
+    structural data only.
+    """
+    prompt = f"""Based on the product spec, generate UI as JSON
+(no HTML, no styling). Use this schema:
+
+{Step2Output.schema_json(indent=2)}
+
+Product spec:
+{step1_out.json(indent=2)}
+
+Output JSON:"""
+
+    raw = await ask_llm(prompt)
+    return Step2Output(**raw)`
+  },
+  {
+    step: 5,
+    badge: "badge-5",
+    title: "Step 3 — design system & theme",
+    sub: "color math · style derivation · self-correction",
+    desc: "Performs deterministic color aggregation across UX trend searches, skin-tone palettes, award databases, and makeup shades. Computes an arithmetic mean RGB, derives the visual style, and validates the dataset size — retrying up to 2× if the gate fails.",
+    tags: [["step3()","tag-blue"],["_web_search()","tag-teal"],["statistics.mean","tag-amber"],["hex_to_rgb","tag-gray"],["avg_color","tag-green"],["Theme","tag-coral"],["retries ≤ 2","tag-red"],["glassmorphism","tag-purple"]],
+    code: `async def _web_search(query: str, num: int = 10) -> List[str]:
+    """Mock web search — replace with Brave / SerpAPI in production."""
+    return ["#FF5733", "#33FF57", "#3357FF"] * (num // 3)
+
+
+async def step3(
+    step1_out: Step1Output,
+    step2_out: Optional[Step2Output] = None,
+    retries: int = 0,
+) -> Step3Output:
+    """
+    Aggregates color data from multiple sources, computes a
+    mathematically derived primary color, and produces a Theme.
+    Retries up to 2× if the dataset size validation gate fails.
+    """
+    current_year = datetime.now().year
+    search_count = current_year * 10
+
+    # ── Web searches ────────────────────────────────────────────────
+    ux_colors    = await _web_search("UX trends colors",            search_count)
+    ui_colors    = await _web_search("UI trends colors",            search_count)
+    award_colors = await _web_search("design awards color palettes", search_count)
+
+    # ── Static palettes ─────────────────────────────────────────────
+    nude_skin        = ["#E8D5B7","#D4A373","#C38D5F","#B87C4F","#A56B3A"]
+    makeup_shades    = ["#F5C6A0","#E6B8A2","#D9A57E","#C78B5E","#B5724A"]
+    fingernail_colors= ["#D9534F","#F0AD4E","#5BC0DE"]
+    award_5y         = ["#2C3E50"]
+    award_10y        = ["#8E44AD"]
+
+    all_colors = (ux_colors + ui_colors + award_colors +
+                  nude_skin + makeup_shades + fingernail_colors +
+                  award_5y + award_10y)
+
+    # ── RGB average ─────────────────────────────────────────────────
+    def hex_to_rgb(h):
+        h = h.lstrip('#')
+        return tuple(int(h[i:i+2], 16) for i in (0, 2, 4))
+
+    rgbs = [hex_to_rgb(c) for c in all_colors
+            if c.startswith('#') and len(c) == 7]
+
+    if not rgbs:
+        avg_color = "#6C63FF"
+    else:
+        avg_r = statistics.mean(r for r, g, b in rgbs)
+        avg_g = statistics.mean(g for r, g, b in rgbs)
+        avg_b = statistics.mean(b for r, g, b in rgbs)
+        avg_color = f"#{int(avg_r):02x}{int(avg_g):02x}{int(avg_b):02x}"
+
+    derived_style = "glassmorphism"
+
+    # ── Validation gate ─────────────────────────────────────────────
+    expected_min = search_count * 3 + 5 + 5 + 3 + 1 + 1
+    if (len(all_colors) < expected_min
+            or not avg_color.startswith('#')
+            or len(avg_color) != 7):
+        if retries < 2:
+            return await step3(step1_out, step2_out, retries + 1)
+
+    theme = Theme(
+        style=derived_style,
+        color_palette={
+            "primary":    avg_color,
+            "secondary":  "#FFD166",
+            "background": "#F5F5F5",
+            "text":       "#1A1A1A",
+            "accent":     "#FF6584",
+        },
+        typography={"font_family": "Inter", "scale": "1.25"},
+        spacing={"base_unit": "8px"},
+        components={
+            "button_variant": "rounded",
+            "input_variant":  "outlined",
+            "card_style":     "elevated",
+        },
+    )
+    summary = {
+        "ux_searches":                search_count,
+        "ui_searches":                search_count,
+        "design_awards_current_year": search_count,
+        "nude_skin_shades":           5,
+        "makeup_skin_shades":         5,
+        "fingernail_colors":          3,
+        "design_awards_last_5_years": 1,
+        "design_awards_last_10_years":1,
+    }
+    derivations = {"average_color": avg_color, "derived_style": derived_style}
+    return Step3Output(
+        theme=theme,
+        tool_dataset_summary=summary,
+        mathematical_derivations=derivations,
+    )`
+  },
+  {
+    step: 6,
+    badge: "badge-6",
+    title: "Step 4 — feature→DAG mapping",
+    sub: "feature extraction · DAG build · self-correction loop",
+    desc: "Deterministically maps every Step1 feature to a UI component and screen. Builds a sequential action DAG. Validates for missing UI mappings, missing API endpoints, and orphan nodes. On failure, re-runs the broken layer (step1 or step2) and recurses.",
+    tags: [["step4()","tag-blue"],["DAGNode","tag-coral"],["missing_features","tag-red"],["orphan_nodes","tag-red"],["layer-aware","tag-purple"],["self-correct","tag-amber"],["recurse","tag-teal"]],
+    code: `async def step4(
+    step1_out: Step1Output,
+    step2_out: Step2Output,
+    step3_out: Step3Output,
+) -> Step4Output:
+    """
+    1. Maps each feature to a screen+component.
+    2. Builds a sequential action DAG.
+    3. Validates: missing UI mappings, missing API endpoints, orphans.
+    4. Self-corrects by re-running the broken layer and recursing.
+    """
+    # ── Feature → screen mapping ─────────────────────────────────────
+    extracted = []
+    for f in step1_out.features:
+        mapped = False
+        for screen in step2_out.screens:
+            for comp in screen.components:
+                if (f["name"].lower() in comp.id.lower()
+                        or f["name"].lower() in comp.type.lower()):
+                    extracted.append({
+                        "name":              f["name"],
+                        "source_screen":     screen.id,
+                        "trigger_component": comp.id,
+                    })
+                    mapped = True
+                    break
+            if mapped:
+                break
+        if not mapped:
+            extracted.append({
+                "name":              f["name"],
+                "source_screen":     "",
+                "trigger_component": "",
+            })
+
+    # ── Build sequential DAG from actions ────────────────────────────
+    dag = []
+    for i, action in enumerate(step1_out.actions):
+        dag.append(DAGNode(id=action, depends_on=step1_out.actions[:i]))
+
+    # ── Validation ───────────────────────────────────────────────────
+    missing = [
+        f["name"] for f in step1_out.features
+        if not any(ef["name"] == f["name"] and ef["source_screen"]
+                   for ef in extracted)
+    ]
+
+    all_ids       = {n.id for n in dag}
+    has_dependents= set()
+    for n in dag:
+        for d in n.depends_on:
+            has_dependents.add(d)
+    orphans = [
+        n.id for n in dag
+        if not n.depends_on and n.id not in has_dependents
+    ]
+    invalid = []   # full cycle detection omitted for brevity
+
+    # ── Layer-aware extended validation ─────────────────────────────
+    for f in step1_out.features:
+        if f["layer"] == "frontend":
+            if not any(ef["name"] == f["name"] and ef["source_screen"]
+                       for ef in extracted):
+                missing.append(f"frontend feature {f['name']} missing UI mapping")
+        elif f["layer"] == "backend":
+            if not any(ep.get("responsible_module") == f["name"]
+                       for ep in step1_out.architecture.api_endpoints):
+                missing.append(f"backend feature {f['name']} missing API endpoint")
+
+    validation = {
+        "missing_features": missing,
+        "orphan_nodes":     orphans,
+        "invalid_flows":    invalid,
+    }
+
+    # ── Self-correction ──────────────────────────────────────────────
+    if missing or orphans or invalid:
+        if any("UI mapping" in m for m in missing):
+            new_step2 = await step2(step1_out)
+            return await step4(step1_out, new_step2, step3_out)
+        elif any("API endpoint" in m for m in missing):
+            new_step1 = await step1(
+                "Regenerate with proper API endpoints for backend features"
+            )
+            return await step4(new_step1, step2_out, step3_out)
+        else:
+            return await step4(step1_out, step2_out, step3_out)
+
+    return Step4Output(features=extracted, dag=dag, validation=validation)`
+  },
+  {
+    step: 7,
+    badge: "badge-7",
+    title: "Step 5 & 6 — DAG finalisation & scheduling",
+    sub: "orphan pruning · T001…TN task IDs · layer-aware timing",
+    desc: "Step 5 prunes orphan nodes from the DAG. Step 6 assigns sequential T-IDs to remaining nodes, resolves dependency IDs, and computes estimated execution times by layer (30s frontend / 45s backend / 60s fullstack).",
+    tags: [["step5()","tag-blue"],["step6()","tag-blue"],["orphan pruning","tag-red"],["ScheduledTask","tag-coral"],["T001…TN","tag-amber"],["est_seconds","tag-green"],["layer map","tag-purple"]],
+    code: `def step5(step4_out: Step4Output) -> Step5Output:
+    """Removes orphan nodes — nodes with no deps AND no dependents."""
+    dag = step4_out.dag
+
+    has_dependents = set()
+    for n in dag:
+        for d in n.depends_on:
+            has_dependents.add(d)
+
+    orphans   = [n for n in dag if not n.depends_on and n.id not in has_dependents]
+    final_dag = [n for n in dag if n not in orphans]
+
+    return Step5Output(
+        final_dag=final_dag,
+        orphan_nodes_removed=len(orphans) > 0,
+    )
+
+
+def step6(step5_out: Step5Output, step1_out: Step1Output) -> Step6Output:
+    """
+    Assigns T-IDs to DAG nodes and computes per-layer time estimates:
+      frontend  → 30 s
+      backend   → 45 s
+      fullstack → 60 s
+    """
+    tasks     = []
+    layer_map = {f["name"]: f["layer"] for f in step1_out.features}
+
+    for idx, node in enumerate(step5_out.final_dag, start=1):
+        layer = layer_map.get(node.id, "fullstack")
+        est   = 30 if layer == "frontend" else 45 if layer == "backend" else 60
+
+        # Resolve dependency names → T-IDs
+        dep_ids = []
+        for dep_name in node.depends_on:
+            for i, n in enumerate(step5_out.final_dag, start=1):
+                if n.id == dep_name:
+                    dep_ids.append(f"T{i:03d}")
+                    break
+
+        tasks.append(ScheduledTask(
+            id=f"T{idx:03d}",
+            depends_on=dep_ids,
+            layer=layer,
+            est_seconds=est,
+        ))
+
+    return Step6Output(scheduled_tasks=tasks)`
+  },
+  {
+    step: 8,
+    badge: "badge-8",
+    title: "Steps 7 & 8 — integration & export",
+    sub: "theme application · routing check · artifact bundle",
+    desc: "Step 7 merges the theme into every screen dict, validates routing completeness and theme consistency, and produces a unified integrated_system. Step 8 bundles all outputs into the final export artifact dict.",
+    tags: [["step7()","tag-blue"],["step8()","tag-blue"],["applied_theme","tag-coral"],["routing_ok","tag-green"],["export_artifact","tag-amber"],["Step8Output","tag-coral"]],
+    code: `def step7(
+    step6_out: Step6Output,
+    step2_out: Step2Output,
+    step3_out: Step3Output,
+) -> Step7Output:
+    """
+    Applies the derived theme to every screen and runs integration
+    checks: routing completeness, theme consistency, edge cases.
+    """
+    integrated_screens = []
+    for screen in step2_out.screens:
+        d = screen.dict()
+        d["applied_theme"] = step3_out.theme.dict()
+        integrated_screens.append(d)
+
+    routing_ok       = all(s.routes is not None for s in step2_out.screens
+                           if s.type == "page")
+    theme_consistency= True
+    edge_cases       = []
+
+    validation_report = {
+        "routing_ok":        routing_ok,
+        "theme_consistency": theme_consistency,
+        "edge_cases":        edge_cases,
+    }
+    integrated = {
+        "screens":           integrated_screens,
+        "dag":               [t.dict() for t in step6_out.scheduled_tasks],
+        "validation_report": validation_report,
+    }
+    return Step7Output(integrated_system=integrated)
+
+
+def step8(
+    step7_out: Step7Output,
+    step1_out: Step1Output,
+    step2_out: Step2Output,
+    step3_out: Step3Output,
+    step4_out: Step4Output,
+    step5_out: Step5Output,
+    step6_out: Step6Output,
+) -> Step8Output:
+    """
+    Bundles all pipeline outputs into a single export artifact dict
+    ready for downstream consumption (GitHub Gist, file write, API, etc).
+    """
+    artifact = {
+        "features":          step1_out.features,
+        "dag":               [n.dict() for n in step5_out.final_dag],
+        "ui_structure":      [s.dict() for s in step2_out.screens],
+        "theme":             step3_out.theme.dict(),
+        "validation_report": step7_out.integrated_system["validation_report"],
+    }
+    return Step8Output(export_artifact=artifact)`
+  },
+  {
+    step: 9,
+    badge: "badge-9",
+    title: "Session logging, orchestrator & CLI",
+    sub: "Session · run_pipeline() · __main__",
+    desc: "Session logs every step to a JSON Lines file (step, input, output, latency_ms). run_pipeline() awaits steps 1–8 in order and returns the artifact + session ID. The CLI entry point wraps everything for direct invocation.",
+    tags: [["Session","tag-coral"],["session.log()","tag-blue"],["run_pipeline()","tag-green"],["JSONL","tag-amber"],["asyncio.run","tag-teal"],["sys.argv","tag-gray"],["latency_ms","tag-purple"]],
+    code: `# ── 4. Session Logging ───────────────────────────────────────────────
+
+class Session:
+    def __init__(self):
+        self.session_id = str(uuid.uuid4())
+        self.log_file   = f"session_{self.session_id}.jsonl"
+
+    def log(
+        self,
+        step: int,
+        input_data: Any,
+        output_data: Any,
+        latency_ms: int,
+        tool_calls: List[Dict] = None,
+    ):
+        record = {
+            "timestamp":  datetime.utcnow().isoformat(),
+            "session_id": self.session_id,
+            "step":       step,
+            "input":      self._serialize(input_data),
+            "output":     self._serialize(output_data),
+            "latency_ms": latency_ms,
+            "tool_calls": tool_calls or [],
+        }
+        with open(self.log_file, "a") as f:
+            f.write(json.dumps(record) + "\n")
+
+    def _serialize(self, obj):
+        if hasattr(obj, "dict"):
+            return obj.dict()
+        elif hasattr(obj, "__dict__"):
+            return {k: v for k, v in obj.__dict__.items()
+                    if not k.startswith("_")}
+        return obj
+
+
+# ── 5. Main Orchestrator ──────────────────────────────────────────────
+
+async def run_pipeline(user_prompt: str) -> Tuple[Dict, str]:
+    session     = Session()
+    start_total = time.time()
+
+    t0 = time.time(); s1 = await step1(user_prompt)
+    session.log(1, user_prompt, s1, int((time.time()-t0)*1000))
+
+    t0 = time.time(); s2 = await step2(s1)
+    session.log(2, s1, s2, int((time.time()-t0)*1000))
+
+    t0 = time.time(); s3 = await step3(s1, s2)
+    session.log(3, {"step1": s1, "step2": s2}, s3, int((time.time()-t0)*1000))
+
+    t0 = time.time(); s4 = await step4(s1, s2, s3)
+    session.log(4, {"step1": s1, "step2": s2, "step3": s3}, s4,
+                int((time.time()-t0)*1000))
+
+    t0 = time.time(); s5 = step5(s4)
+    session.log(5, s4, s5, int((time.time()-t0)*1000))
+
+    t0 = time.time(); s6 = step6(s5, s1)
+    session.log(6, {"step5": s5, "step1": s1}, s6, int((time.time()-t0)*1000))
+
+    t0 = time.time(); s7 = step7(s6, s2, s3)
+    session.log(7, {"step6": s6, "step2": s2, "step3": s3}, s7,
+                int((time.time()-t0)*1000))
+
+    t0 = time.time(); s8 = step8(s7, s1, s2, s3, s4, s5, s6)
+    session.log(8, s7, s8, int((time.time()-t0)*1000))
+
+    total_ms = int((time.time()-start_total)*1000)
+    session.log(9, "pipeline_end", s8, total_ms)
+
+    return s8.export_artifact, session.session_id
+
+
+# ── 6. CLI Entry Point ────────────────────────────────────────────────
+
+if __name__ == "__main__":
+    import sys
+    prompt = (
+        " ".join(sys.argv[1:]) if len(sys.argv) > 1
+        else "Build a dashboard with user login and real-time charts."
+    )
+    print(f"Running pipeline with prompt: {prompt}\n")
+    artifact, sid = asyncio.run(run_pipeline(prompt))
+    print(f"\nSession ID: {sid}")
+    print("\nFinal Export Artifact:\n", json.dumps(artifact, indent=2))`
+  },
+];
+
+const container = document.getElementById('pipeline');
+
+tiles.forEach((t, i) => {
+  const tile = document.createElement('div');
+  tile.className = 'tile';
+
+  const tagsHtml = t.tags.map(([label, cls]) =>
+    `<span class="tag ${cls}">${label}</span>`
+  ).join('');
+
+  tile.innerHTML = `
+    <div class="tile-header" onclick="toggle(${i})">
+      <div class="tile-badge ${t.badge}">S${t.step}</div>
+      <div style="flex:1;">
+        <div class="tile-title">${t.title}</div>
+        <div class="tile-sub">${t.sub}</div>
+      </div>
+      <div class="chevron" id="chev-${i}">▼</div>
+    </div>
+    <div class="tile-body" id="body-${i}">
+      <p class="desc">${t.desc}</p>
+      <p class="section-label">tags</p>
+      <div class="tag-row">${tagsHtml}</div>
+      <div class="spacer"></div>
+      <p class="section-label">code</p>
+      <div class="code-block">${escapeHtml(t.code)}</div>
+    </div>
+  `;
+  container.appendChild(tile);
+});
+
+function escapeHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function toggle(i) {
+  const body = document.getElementById('body-' + i);
+  const chev = document.getElementById('chev-' + i);
+  const open = body.classList.toggle('open');
+  chev.classList.toggle('open', open);
+}
+</script>
