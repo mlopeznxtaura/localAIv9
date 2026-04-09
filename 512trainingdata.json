@@ -1,0 +1,4610 @@
+[
+  {
+    "id": "sr0001",
+    "text": "Attention is all you need. Transformer architecture uses self-attention to achieve state-of-the-art in machine translation.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "timestamp": "2017-06-12T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0002",
+    "text": "AlphaFold predicts protein structures at atomic accuracy, revolutionizing computational biology.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/s41586-019-1923-7",
+    "timestamp": "2020-07-15T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0003",
+    "text": "Observation of gravitational waves from binary black hole merger GW150914.",
+    "source": "Phys. Rev. Lett.",
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102",
+    "timestamp": "2016-02-11T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0004",
+    "text": "CRISPR-Cas9 gene editing in human embryos shows high off-target rates. We sequenced 10 embryos and found 15% unintended mutations.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32231276/",
+    "timestamp": "2020-04-08T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0005",
+    "text": "Quantum entanglement experiments demonstrate Bell inequality violations in photons at 500m separation.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature12345",
+    "timestamp": "2023-05-15T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0006",
+    "text": "High-temperature superconductivity observed in hydrogen sulfide under 200 GPa pressure at 203 K.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.aaf5356",
+    "timestamp": "2015-11-03T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0007",
+    "text": "The Large Hadron Collider confirms the existence of the Higgs boson with mass ~125 GeV/c^2.",
+    "source": "CERN",
+    "url": "https://home.cern/news/press-release/cern/observation-new-particle",
+    "timestamp": "2012-07-04T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0008",
+    "text": "A method for RNA sequencing enables single-cell resolution transcriptomics across tissues.",
+    "source": "Nature Methods",
+    "url": "https://www.nature.com/articles/nmeth.4152",
+    "timestamp": "2017-10-09T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0009",
+    "text": "Observation of neutrino oscillations confirms that neutrinos have mass.",
+    "source": "Phys. Rev. Lett.",
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.1562",
+    "timestamp": "1998-12-18T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0010",
+    "text": "Deep generative models like VAEs and GANs can synthesize realistic images and audio.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1312.6114",
+    "timestamp": "2013-12-20T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0011",
+    "text": "Single-molecule CRISPR imaging allows live-cell tracking of DNA editing in real time.",
+    "source": "Nature Biotechnology",
+    "url": "https://www.nature.com/articles/nbt.4075",
+    "timestamp": "2017-09-18T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0012",
+    "text": "Observational cosmology shows accelerated expansion of the universe, consistent with dark energy models.",
+    "source": "Astrophysical Journal",
+    "url": "https://iopscience.iop.org/article/10.1086/307221",
+    "timestamp": "1998-09-24T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0013",
+    "text": "Topological insulators exhibit conducting edge states protected by time-reversal symmetry.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.1148047",
+    "timestamp": "2007-06-29T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0014",
+    "text": "Reinforcement learning agents can learn to play Atari games from raw pixel input without supervision.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature14236",
+    "timestamp": "2015-02-26T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0015",
+    "text": "RNA-seq analysis shows differential expression patterns between healthy and diseased tissues.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25847343/",
+    "timestamp": "2015-12-11T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0016",
+    "text": "Variational quantum algorithms are applied to simulate molecular energies on near-term quantum computers.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/s41534-019-0179-2",
+    "timestamp": "2019-04-10T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0017",
+    "text": "Graph neural networks model relational data in chemistry, physics, and social networks effectively.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1812.08434",
+    "timestamp": "2018-12-21T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0018",
+    "text": "Single-cell transcriptomics allows mapping of cell types in the developing human brain.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.aax2652",
+    "timestamp": "2019-04-12T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0019",
+    "text": "Transformers achieve state-of-the-art results in protein folding prediction tasks.",
+    "source": "Nature Methods",
+    "url": "https://www.nature.com/articles/s41592-021-01171-9",
+    "timestamp": "2021-03-15T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0020",
+    "text": "Topological quantum computing uses non-Abelian anyons for fault-tolerant qubits.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature23458",
+    "timestamp": "2016-05-11T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0021",
+    "text": "Diffusion models enable high-quality generative image synthesis surpassing GANs in diversity and realism.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "timestamp": "2020-06-22T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0022",
+    "text": "CRISPR base editors allow precise single-nucleotide editing without double-strand breaks.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature17946",
+    "timestamp": "2017-10-26T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0023",
+    "text": "Deep reinforcement learning achieves superhuman performance in complex games using reward maximization.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1811.01260",
+    "timestamp": "2018-11-03T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0024",
+    "text": "Quantum teleportation transfers quantum states between distant particles using entanglement.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/0007026",
+    "timestamp": "2000-07-03T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0025",
+    "text": "Lattice QCD calculations provide non-perturbative insights into strong nuclear interactions.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2009.12345",
+    "timestamp": "2020-09-25T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0026",
+    "text": "Black hole information paradox challenges the reconciliation of quantum mechanics and general relativity.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/hep-th/9201010",
+    "timestamp": "1992-01-01T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0027",
+    "text": "Neural ordinary differential equations generalize residual networks to continuous-depth models.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1806.07366",
+    "timestamp": "2018-06-18T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0028",
+    "text": "The Standard Model describes electromagnetic, weak, and strong interactions in particle physics.",
+    "source": "CERN",
+    "url": "https://home.cern/science/physics/standard-model",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0029",
+    "text": "Photonic crystals control the propagation of light using periodic dielectric structures.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature01339",
+    "timestamp": "2000-06-15T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0030",
+    "text": "Quantum error correction protects quantum information from decoherence and operational errors.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/9705052",
+    "timestamp": "1997-05-05T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0031",
+    "text": "Neural Turing Machines combine neural networks with external memory for algorithmic tasks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1410.5401",
+    "timestamp": "2014-10-21T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0032",
+    "text": "Wave-particle duality: quantum entities exhibit both wave-like and particle-like behavior.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0033",
+    "text": "Quantum key distribution enables secure communication based on quantum mechanics principles.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/0103046",
+    "timestamp": "2001-03-02T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0034",
+    "text": "Spiking neural networks model neuron firing times and capture temporal information.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1901.09650",
+    "timestamp": "2019-01-28T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0035",
+    "text": "The AdS/CFT correspondence relates gravity in anti-de Sitter space to a conformal field theory on the boundary.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/hep-th/9711200",
+    "timestamp": "1997-11-20T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0036",
+    "text": "AlphaZero learns board games from self-play without human data, achieving superhuman performance.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.aar6404",
+    "timestamp": "2017-12-07T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0037",
+    "text": "Topological quantum computing uses anyons and braiding to perform fault-tolerant quantum operations.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature23461",
+    "timestamp": "2017-10-25T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0038",
+    "text": "Differentiable programming generalizes neural networks by allowing gradients through arbitrary code.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1602.07965",
+    "timestamp": "2016-02-24T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0039",
+    "text": "Quantum supremacy demonstrates computational tasks infeasible for classical computers.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/s41586-019-1666-5",
+    "timestamp": "2019-10-23T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0040",
+    "text": "Self-supervised learning pretrains models using unlabeled data and downstream fine-tuning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1905.00546",
+    "timestamp": "2019-05-02T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0041",
+    "text": "Contrastive learning trains representations by distinguishing similar and dissimilar pairs of data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2002.05709",
+    "timestamp": "2020-02-12T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0042",
+    "text": "Variational autoencoders model latent variables with a probabilistic encoder-decoder architecture.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1312.6114",
+    "timestamp": "2013-12-20T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0043",
+    "text": "The Navier-Stokes equations describe the motion of viscous fluid substances.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0044",
+    "text": "Phase transitions occur when a system changes from one state of matter to another, e.g., solid to liquid.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Phase_transition",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0045",
+    "text": "Long short-term memory (LSTM) networks solve vanishing gradient problems in RNNs.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1303.5778",
+    "timestamp": "2013-03-14T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0046",
+    "text": "Schr\u00f6dinger equation predicts how the quantum state of a physical system evolves over time.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0047",
+    "text": "Boltzmann machines learn probability distributions over binary-valued data using energy-based modeling.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/physics/9708016",
+    "timestamp": "1997-08-01T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0048",
+    "text": "The backpropagation algorithm efficiently computes gradients for multilayer neural networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1206.5533",
+    "timestamp": "2012-06-21T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0049",
+    "text": "Stochastic gradient descent optimizes model parameters by computing gradients on mini-batches of data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1201.5582",
+    "timestamp": "2012-01-25T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0050",
+    "text": "Capsule networks aim to preserve hierarchical pose relationships between features.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1710.09829",
+    "timestamp": "2017-10-26T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0051",
+    "text": "Elastic weight consolidation reduces catastrophic forgetting in continual learning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1612.00796",
+    "timestamp": "2016-12-02T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0052",
+    "text": "Deep Q-Networks combine deep learning with Q-learning for end-to-end reinforcement learning.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature14236",
+    "timestamp": "2015-02-26T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0053",
+    "text": "Hopfield networks store associative memories and retrieve them via energy minimization.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0205021",
+    "timestamp": "2002-05-02T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0054",
+    "text": "Bayesian neural networks represent uncertainty by placing distributions over weights.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1506.02142",
+    "timestamp": "2015-06-06T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0055",
+    "text": "The Ising model explains phase transitions in ferromagnetic materials using spin interactions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ising_model",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0056",
+    "text": "Neural style transfer modifies images by recombining content and style representations in deep networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1508.06576",
+    "timestamp": "2015-08-25T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0057",
+    "text": "Convolutional neural networks apply spatial filters to exploit local correlations in data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1409.1556",
+    "timestamp": "2014-09-04T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0058",
+    "text": "Reversible neural networks allow exact reconstruction of inputs from outputs, saving memory in training.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1707.04585",
+    "timestamp": "2017-07-14T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0059",
+    "text": "Hyperbolic neural networks use hyperbolic geometry to embed hierarchical data efficiently.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1805.09112",
+    "timestamp": "2018-05-22T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0060",
+    "text": "Quantum annealing leverages quantum tunneling to find low-energy states of combinatorial optimization problems.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/0001106",
+    "timestamp": "2000-01-10T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0061",
+    "text": "Generative adversarial networks (GANs) train a generator and discriminator in a minimax game to synthesize realistic data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1406.2661",
+    "timestamp": "2014-06-10T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0062",
+    "text": "Meta-learning enables models to adapt quickly to new tasks using prior experience across tasks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1703.03400",
+    "timestamp": "2017-03-09T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0063",
+    "text": "Layer normalization stabilizes training in deep neural networks by normalizing activations across features.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1607.06450",
+    "timestamp": "2016-07-22T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "sr0064",
+    "text": "Neural architecture search (NAS) automates the design of optimal neural network architectures.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1808.07233",
+    "timestamp": "2018-08-22T00:00:00Z",
+    "category": "Scientific_Research",
+    "dependencies": []
+  },
+  {
+    "id": "co0001",
+    "text": "def fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-01T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0002",
+    "text": "import numpy as np\narr = np.array([1, 2, 3])\nprint(arr.mean())",
+    "source": "GitHub Code",
+    "url": "https://github.com/numpy/numpy",
+    "timestamp": "2023-07-15T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0003",
+    "text": "const express = require('express');\nconst app = express();\napp.get('/', (req, res) => res.send('Hello World'));\napp.listen(3000);",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-09-10T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0004",
+    "text": "public class Main {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-06-20T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0005",
+    "text": "SELECT * FROM users WHERE age > 18 ORDER BY name;",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-08-05T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0006",
+    "text": "git init\ngit add .\ngit commit -m \"Initial commit\"",
+    "source": "GitHub Code",
+    "url": "https://github.com/git/git",
+    "timestamp": "2023-07-22T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0007",
+    "text": "docker build -t myapp .\ndocker run -p 8080:80 myapp",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-09-01T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0008",
+    "text": "def quicksort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr)//2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quicksort(left) + middle + quicksort(right)",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-06-15T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0009",
+    "text": "import React, { useState } from 'react';\nfunction Counter() {\n    const [count, setCount] = useState(0);\n    return <button onClick={() => setCount(count+1)}>{count}</button>;\n}",
+    "source": "GitHub Code",
+    "url": "https://github.com/facebook/react",
+    "timestamp": "2023-08-12T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0010",
+    "text": "curl -X GET https://api.example.com/data -H \"Authorization: Bearer TOKEN\"",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-07-30T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0011",
+    "text": "for i in range(10):\n    print(f\"Number {i}\")",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-05T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0012",
+    "text": "const numbers = [1, 2, 3, 4];\nconst doubled = numbers.map(n => n * 2);\nconsole.log(doubled);",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-18T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0013",
+    "text": "package main\nimport \"fmt\"\nfunc main() {\n    fmt.Println(\"Hello, Go!\")\n}",
+    "source": "GitHub Code",
+    "url": "https://github.com/golang/go",
+    "timestamp": "2023-07-10T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0014",
+    "text": "class Node:\n    def __init__(self, val):\n        self.val = val\n        self.next = None",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-25T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0015",
+    "text": "mvn clean install",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-12T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0016",
+    "text": "def binary_search(arr, target):\n    low, high = 0, len(arr)-1\n    while low <= high:\n        mid = (low+high)//2\n        if arr[mid] == target: return mid\n        elif arr[mid] < target: low = mid+1\n        else: high = mid-1\n    return -1",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-06-28T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0017",
+    "text": "import pandas as pd\ndf = pd.read_csv('data.csv')\nprint(df.head())",
+    "source": "GitHub Code",
+    "url": "https://github.com/pandas-dev/pandas",
+    "timestamp": "2023-08-03T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0018",
+    "text": "grep -r \"pattern\" ./src",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-07-19T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0019",
+    "text": "import matplotlib.pyplot as plt\nplt.plot([1,2,3], [4,5,6])\nplt.show()",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-08T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0020",
+    "text": "async function fetchData() {\n    const response = await fetch('https://api.example.com');\n    const data = await response.json();\n    console.log(data);\n}",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-14T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0021",
+    "text": "terraform init\nterraform plan\nterraform apply",
+    "source": "GitHub Code",
+    "url": "https://github.com/hashicorp/terraform",
+    "timestamp": "2023-07-05T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0022",
+    "text": "def merge_sort(arr):\n    if len(arr) <= 1: return arr\n    mid = len(arr)//2\n    left = merge_sort(arr[:mid])\n    right = merge_sort(arr[mid:])\n    return merge(left, right)",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-30T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0023",
+    "text": "pip install requests",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-15T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0024",
+    "text": "const http = require('http');\nhttp.createServer((req, res) => {\n    res.writeHead(200, {'Content-Type': 'text/plain'});\n    res.end('Hello World');\n}).listen(8080);",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-06-22T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0025",
+    "text": "ArrayList<String> list = new ArrayList<>();\nlist.add(\"apple\");\nlist.add(\"banana\");",
+    "source": "GitHub Code",
+    "url": "https://github.com/openjdk/jdk",
+    "timestamp": "2023-08-07T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0026",
+    "text": "def factorial(n):\n    return 1 if n == 0 else n * factorial(n-1)",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-07-28T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0027",
+    "text": "kubectl get pods\nkubectl describe pod my-pod",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-03T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0028",
+    "text": "import torch\nx = torch.tensor([1.0, 2.0, 3.0])\nprint(x.sum())",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-20T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0029",
+    "text": "console.log([1, 2, 3].reduce((a, b) => a + b, 0));",
+    "source": "GitHub Code",
+    "url": "https://github.com/nodejs/node",
+    "timestamp": "2023-07-13T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0030",
+    "text": "#!/bin/bash\nfor i in {1..5}; do\n    echo \"Number $i\"\ndone",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-27T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0031",
+    "text": "import java.util.HashMap;\nHashMap<String, Integer> map = new HashMap<>();\nmap.put(\"key\", 1);",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-10T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0032",
+    "text": "def is_palindrome(s):\n    return s == s[::-1]",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-06-25T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0033",
+    "text": "npx create-react-app my-app",
+    "source": "GitHub Code",
+    "url": "https://github.com/facebook/create-react-app",
+    "timestamp": "2023-08-09T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0034",
+    "text": "def bfs(graph, start):\n    visited, queue = set(), [start]\n    while queue:\n        vertex = queue.pop(0)\n        if vertex not in visited:\n            visited.add(vertex)\n            queue.extend(graph[vertex] - visited)\n    return visited",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-22T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0035",
+    "text": "rsync -avz source/ destination/",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-06T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0036",
+    "text": "import tensorflow as tf\nmodel = tf.keras.Sequential([\n    tf.keras.layers.Dense(10, activation='relu'),\n    tf.keras.layers.Dense(1)\n])",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-16T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0037",
+    "text": "const obj = { a: 1, b: 2 };\nconst { a, b } = obj;\nconsole.log(a, b);",
+    "source": "GitHub Code",
+    "url": "https://github.com/tc39/ecma262",
+    "timestamp": "2023-07-17T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0038",
+    "text": "gcc -o program program.c",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-28T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0039",
+    "text": "from flask import Flask\napp = Flask(__name__)\n@app.route('/')\ndef hello():\n    return 'Hello World!'",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-13T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0040",
+    "text": "def dijkstra(graph, start):\n    import heapq\n    distances = {node: float('inf') for node in graph}\n    distances[start] = 0\n    pq = [(0, start)]\n    while pq:\n        current_dist, current = heapq.heappop(pq)\n        if current_dist > distances[current]: continue\n        for neighbor, weight in graph[current].items():\n            distance = current_dist + weight\n            if distance < distances[neighbor]:\n                distances[neighbor] = distance\n                heapq.heappush(pq, (distance, neighbor))\n    return distances",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-06-30T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0041",
+    "text": "npm install express",
+    "source": "GitHub Code",
+    "url": "https://github.com/expressjs/express",
+    "timestamp": "2023-08-11T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0042",
+    "text": "def reverse_linked_list(head):\n    prev = None\n    while head:\n        next_node = head.next\n        head.next = prev\n        prev = head\n        head = next_node\n    return prev",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-24T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0043",
+    "text": "ssh user@host 'ls -la'",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-07T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0044",
+    "text": "import seaborn as sns\nsns.set_theme()\ntips = sns.load_dataset(\"tips\")\nsns.relplot(data=tips, x=\"total_bill\", y=\"tip\")",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-19T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0045",
+    "text": "public static int binarySearch(int[] arr, int target) {\n    int left = 0, right = arr.length - 1;\n    while (left <= right) {\n        int mid = left + (right - left) / 2;\n        if (arr[mid] == target) return mid;\n        if (arr[mid] < target) left = mid + 1;\n        else right = mid - 1;\n    }\n    return -1;\n}",
+    "source": "GitHub Code",
+    "url": "https://github.com/openjdk/jdk",
+    "timestamp": "2023-07-20T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0046",
+    "text": "docker-compose up -d",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-09-02T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0047",
+    "text": "def knapsack(values, weights, capacity):\n    n = len(values)\n    dp = [[0]*(capacity+1) for _ in range(n+1)]\n    for i in range(1, n+1):\n        for w in range(capacity+1):\n            if weights[i-1] <= w:\n                dp[i][w] = max(dp[i-1][w], dp[i-1][w-weights[i-1]] + values[i-1])\n            else:\n                dp[i][w] = dp[i-1][w]\n    return dp[n][capacity]",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-06-27T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0048",
+    "text": "import 'package:flutter/material.dart';\nvoid main() => runApp(MyApp());\nclass MyApp extends StatelessWidget {\n  @override\n  Widget build(BuildContext context) {\n    return MaterialApp(home: Text('Hello Flutter'));\n  }\n}",
+    "source": "GitHub Code",
+    "url": "https://github.com/flutter/flutter",
+    "timestamp": "2023-08-06T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0049",
+    "text": "def inorder_traversal(root):\n    res = []\n    def dfs(node):\n        if node:\n            dfs(node.left)\n            res.append(node.val)\n            dfs(node.right)\n    dfs(root)\n    return res",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-29T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0050",
+    "text": "cargo new my_project",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-14T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0051",
+    "text": "const promise = new Promise((resolve, reject) => {\n    setTimeout(() => resolve('done'), 1000);\n});\npromise.then(console.log);",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-13T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0052",
+    "text": "import unittest\nclass TestMath(unittest.TestCase):\n    def test_add(self):\n        self.assertEqual(1+1, 2)",
+    "source": "GitHub Code",
+    "url": "https://github.com/python/cpython",
+    "timestamp": "2023-07-09T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0053",
+    "text": "find . -name \"*.txt\" -exec grep \"pattern\" {} \\;",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-26T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0054",
+    "text": "def lcs(X, Y):\n    m, n = len(X), len(Y)\n    L = [[0]*(n+1) for _ in range(m+1)]\n    for i in range(m+1):\n        for j in range(n+1):\n            if i == 0 or j == 0: L[i][j] = 0\n            elif X[i-1] == Y[j-1]: L[i][j] = L[i-1][j-1]+1\n            else: L[i][j] = max(L[i-1][j], L[i][j-1])\n    return L[m][n]",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-11T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0055",
+    "text": "import 'dart:math';\nvoid main() {\n  print(sqrt(16));\n}",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-21T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0056",
+    "text": "git clone https://github.com/user/repo.git",
+    "source": "GitHub Code",
+    "url": "https://github.com/git/git",
+    "timestamp": "2023-07-24T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0057",
+    "text": "def has_cycle(head):\n    slow = fast = head\n    while fast and fast.next:\n        slow = slow.next\n        fast = fast.next.next\n        if slow == fast: return True\n    return False",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-31T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0058",
+    "text": "python -m venv venv\nsource venv/bin/activate",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-09T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0059",
+    "text": "import 'package:http/http.dart' as http;\nvoid fetchData() async {\n  var response = await http.get(Uri.parse('https://example.com'));\n  print(response.body);\n}",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-17T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0060",
+    "text": "const express = require('express');\nconst router = express.Router();\nrouter.get('/users', (req, res) => res.json([{id:1}]));\nmodule.exports = router;",
+    "source": "GitHub Code",
+    "url": "https://github.com/expressjs/express",
+    "timestamp": "2023-07-27T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0061",
+    "text": "scp file.txt user@host:/path/",
+    "source": "The Stack v2",
+    "url": "https://huggingface.co/datasets/bigcode/the-stack-v2",
+    "timestamp": "2023-08-23T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0062",
+    "text": "def bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n-i-1):\n            if arr[j] > arr[j+1]:\n                arr[j], arr[j+1] = arr[j+1], arr[j]\n    return arr",
+    "source": "CodeParrot",
+    "url": "https://huggingface.co/datasets/codeparrot/codeparrot-clean",
+    "timestamp": "2023-09-04T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0063",
+    "text": "import { useState } from 'react';\nfunction App() {\n  const [name, setName] = useState('');\n  return <input value={name} onChange={e => setName(e.target.value)} />;\n}",
+    "source": "StarCoderData",
+    "url": "https://huggingface.co/datasets/bigcode/starcoderdata",
+    "timestamp": "2023-08-15T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "co0064",
+    "text": "gradle build",
+    "source": "GitHub Code",
+    "url": "https://github.com/gradle/gradle",
+    "timestamp": "2023-07-12T00:00:00Z",
+    "category": "Coding",
+    "dependencies": []
+  },
+  {
+    "id": "mp0001",
+    "text": "theorem sqrt2_irrational: \"sqrt 2 \u2209 \u211a\" proof assume \"sqrt 2 \u2208 \u211a\" ... qed",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sqrt.html",
+    "timestamp": "2023-11-05T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0002",
+    "text": "\u2200 \u03b5 > 0, \u2203 N \u2208 \u2115 such that \u2200 n \u2265 N, |a_n - L| < \u03b5. This is the definition of a convergent sequence.",
+    "source": "OpenWebMath",
+    "url": "https://openwebmath.org/",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0003",
+    "text": "Euler's formula: e^(i\u03c0) + 1 = 0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_formula",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0004",
+    "text": "The Riemann Hypothesis states that all non-trivial zeros of the zeta function have real part 1/2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+    "timestamp": "2024-01-10T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0005",
+    "text": "Prove by induction: sum_{i=1}^n i = n(n+1)/2.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sum.html",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0006",
+    "text": "Definition of a group: (G, *) is a group if closure, associativity, identity, and inverse properties hold.",
+    "source": "Abstract Algebra Online",
+    "url": "https://abstract.ups.edu/",
+    "timestamp": "2023-11-15T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0007",
+    "text": "Proof that there are infinitely many primes: assume finite, construct product +1, leads to contradiction.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Prime.html",
+    "timestamp": "2023-10-10T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0008",
+    "text": "Definition: A metric space (X, d) satisfies positivity, symmetry, triangle inequality, and d(x, y) = 0 iff x = y.",
+    "source": "Topology Texts",
+    "url": "https://mathworld.wolfram.com/MetricSpace.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0009",
+    "text": "Cantor's diagonalization proof shows that the real numbers are uncountable.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument",
+    "timestamp": "2023-10-05T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0010",
+    "text": "Fundamental theorem of calculus: If f is continuous on [a, b], then \u222b_a^b f'(x) dx = f(b) - f(a).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0011",
+    "text": "The Pythagorean theorem: In a right triangle, a^2 + b^2 = c^2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0012",
+    "text": "Definition: A topology on a set X is a collection of subsets T \u2286 P(X) closed under union and finite intersection.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/Topology.html",
+    "timestamp": "2023-11-18T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0013",
+    "text": "Proof that e is irrational: assume e = p/q, expand as series, leads to contradiction.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/E.html",
+    "timestamp": "2023-10-15T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0014",
+    "text": "Lagrange multipliers provide necessary conditions for constrained local extrema of functions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lagrange_multiplier",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0015",
+    "text": "Definition: A field is a set F with two operations (+, *) satisfying closure, associativity, distributivity, identity, and inverses.",
+    "source": "Abstract Algebra Online",
+    "url": "https://abstract.ups.edu/",
+    "timestamp": "2023-11-15T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0016",
+    "text": "Taylor series: f(x) = \u03a3 (f^n(a)/n!)*(x-a)^n converges to f(x) under certain conditions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor_series",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0017",
+    "text": "The axiom of choice: For any set of non-empty sets, there exists a choice function selecting one element from each set.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Axiom_of_choice",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0018",
+    "text": "Fermat's Little Theorem: If p is prime and a \u2208 \u2124, then a^p \u2261 a (mod p).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fermat%27s_little_theorem",
+    "timestamp": "2023-11-28T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0019",
+    "text": "Definition: A vector space V over a field F has vector addition and scalar multiplication satisfying 8 axioms.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/VectorSpace.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0020",
+    "text": "Proof: The sum of the angles of a triangle in Euclidean space equals 180\u00b0.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Triangle.html",
+    "timestamp": "2023-10-20T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0021",
+    "text": "Definition: An inner product space is a vector space with a positive-definite bilinear form \u27e8\u00b7,\u00b7\u27e9.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/InnerProductSpace.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0022",
+    "text": "Cauchy-Schwarz inequality: |\u27e8x,y\u27e9| \u2264 ||x||\u00b7||y|| for all vectors x, y in inner product space.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0023",
+    "text": "Definition: A normed space is a vector space with a function ||\u00b7|| satisfying positivity, scalar multiplication, and triangle inequality.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/NormedVectorSpace.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0024",
+    "text": "Proof: The derivative of sin(x) is cos(x) using limit definition of derivative.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/SinDerivative.html",
+    "timestamp": "2023-10-22T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0025",
+    "text": "Definition: A sequence {a_n} is Cauchy if \u2200 \u03b5>0 \u2203 N s.t. m,n \u2265 N \u21d2 |a_m - a_n|<\u03b5.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/CauchySequence.html",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0026",
+    "text": "Fundamental theorem of algebra: Every non-constant polynomial with complex coefficients has at least one complex root.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0027",
+    "text": "Definition: A linear transformation T: V\u2192W satisfies T(v + u) = T(v) + T(u) and T(c\u00b7v) = c\u00b7T(v).",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/LinearTransformation.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0028",
+    "text": "Binomial theorem: (x + y)^n = \u03a3_{k=0}^n (n choose k) x^{n-k} y^k.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Binomial_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0029",
+    "text": "Definition: A topology is Hausdorff if any two distinct points have disjoint neighborhoods.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/HausdorffSpace.html",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0030",
+    "text": "Definition: A differentiable manifold is a topological manifold with a smooth structure.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/DifferentiableManifold.html",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0031",
+    "text": "Green's theorem: \u222e_C (L dx + M dy) = \u222c_D (\u2202M/\u2202x - \u2202L/\u2202y) dA.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Green%27s_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0032",
+    "text": "Stokes' theorem: \u222e_\u2202S F\u00b7dr = \u222c_S (\u2207\u00d7F)\u00b7dS.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stokes%27_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0033",
+    "text": "Fermat's Last Theorem: No three positive integers a, b, c satisfy a^n + b^n = c^n for n > 2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0034",
+    "text": "The Banach\u2013Tarski paradox shows a solid sphere can be decomposed and reassembled into two identical spheres.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0035",
+    "text": "The Fourier Transform converts a function from its time domain to frequency domain: F(\u03c9) = \u222b f(t)e^(-i\u03c9t) dt.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fourier_transform",
+    "timestamp": "2023-11-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0036",
+    "text": "The Poincar\u00e9 Conjecture: Every simply connected, closed 3-manifold is homeomorphic to the 3-sphere.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0037",
+    "text": "Lagrange's four-square theorem: every natural number is the sum of four integer squares.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lagrange%27s_four-square_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0038",
+    "text": "G\u00f6del's incompleteness theorem: any consistent system capable of arithmetic has true statements that are unprovable.",
+    "source": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/goedel-incompleteness/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0039",
+    "text": "A proof by induction example: sum_{i=1}^n i^2 = n(n+1)(2n+1)/6.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sum.html",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0040",
+    "text": "Taylor series expansion of e^x: e^x = \u03a3 (x^n)/n! for n=0 to \u221e.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor_series",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0041",
+    "text": "Maclaurin series for sin(x): sin(x) = \u03a3 (-1)^n x^(2n+1)/(2n+1)! for n=0 to \u221e.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor_series#Maclaurin_series",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0042",
+    "text": "The Gamma function generalizes the factorial: \u0393(n) = \u222b_0^\u221e x^(n-1)e^(-x) dx.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gamma_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0043",
+    "text": "The zeta function \u03b6(s) = \u03a3 n^-s encodes the distribution of prime numbers in its zeros.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riemann_zeta_function",
+    "timestamp": "2024-01-10T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0044",
+    "text": "The Prime Number Theorem: \u03c0(n) ~ n / ln(n), describing the asymptotic distribution of primes.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prime_number_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0045",
+    "text": "The Lagrange interpolation formula reconstructs a polynomial through n+1 points.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lagrange_polynomial",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0046",
+    "text": "The Legendre polynomials P_n(x) solve Legendre's differential equation.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Legendre_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0047",
+    "text": "The Hermite polynomials H_n(x) appear in solutions to the quantum harmonic oscillator.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hermite_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0048",
+    "text": "The Chebyshev polynomials T_n(x) minimize the maximum error in polynomial approximation.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chebyshev_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0049",
+    "text": "The Bessel function J_n(x) solves Bessel's differential equation: x^2 y'' + x y' + (x^2-n^2)y=0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bessel_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0050",
+    "text": "The Laplace transform: F(s) = \u222b_0^\u221e e^(-st) f(t) dt, converting functions from time to complex frequency domain.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Laplace_transform",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0051",
+    "text": "The M\u00f6bius function \u03bc(n) is defined as 0 if n has squared prime factor, (-1)^k if n is product of k distinct primes.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/M%C3%B6bius_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0052",
+    "text": "Euler's totient function \u03c6(n) counts integers up to n that are coprime to n.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_totient_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0053",
+    "text": "The Dirichlet theorem on arithmetic progressions: every arithmetic progression a, a+d, a+2d,... with gcd(a,d)=1 contains infinitely many primes.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0054",
+    "text": "Stirling's approximation: n! \u2248 sqrt(2\u03c0n) (n/e)^n, useful for asymptotics.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stirling%27s_approximation",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0055",
+    "text": "The Weierstrass function is continuous everywhere but differentiable nowhere.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Weierstrass_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0056",
+    "text": "The Cantor set is uncountable, totally disconnected, and has measure zero.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cantor_set",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0057",
+    "text": "The Heine-Borel theorem: a subset of \u211d^n is compact iff it is closed and bounded.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heine%E2%80%93Borel_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0058",
+    "text": "The Bolzano-Weierstrass theorem: every bounded sequence in \u211d^n has a convergent subsequence.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bolzano%E2%80%93Weierstrass_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0059",
+    "text": "The Rouch\u00e9's theorem gives conditions for the number of zeros of complex functions within a contour.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rouch%C3%A9%27s_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0060",
+    "text": "Liouville's theorem: every bounded entire function must be constant.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis)",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0061",
+    "text": "The Cauchy integral formula provides the value of a holomorphic function inside a contour in terms of its values on the contour.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cauchy_integral_formula",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0062",
+    "text": "The residue theorem evaluates complex line integrals using residues of poles inside the contour.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Residue_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0063",
+    "text": "Schur's lemma: in representation theory, a linear map commuting with irreducible representations is scalar.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schur%27s_lemma",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "mp0064",
+    "text": "The Jordan canonical form represents a linear operator by a block-diagonal matrix of Jordan blocks.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jordan_normal_form",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "Mathematics_Physics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0001",
+    "text": "The quick brown fox jumps over the lazy dog.",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0002",
+    "text": "Le renard brun rapide saute par-dessus le chien paresseux.",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0003",
+    "text": "El veloz zorro marr\u00f3n salta sobre el perro perezoso.",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0004",
+    "text": "Der schnelle braune Fuchs springt \u00fcber den faulen Hund.",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0005",
+    "text": "\u901f\u3044\u8336\u8272\u306e\u30ad\u30c4\u30cd\u304c\u6020\u3051\u8005\u306e\u72ac\u3092\u98db\u3073\u8d8a\u3048\u308b\u3002",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0006",
+    "text": "\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0430\u044f \u043b\u0438\u0441\u0430 \u043f\u0435\u0440\u0435\u043f\u0440\u044b\u0433\u0438\u0432\u0430\u0435\u0442 \u0447\u0435\u0440\u0435\u0437 \u043b\u0435\u043d\u0438\u0432\u0443\u044e \u0441\u043e\u0431\u0430\u043a\u0443.",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0007",
+    "text": "A r\u00e1pida raposa marrom pula sobre o cachorro pregui\u00e7oso.",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0008",
+    "text": "Translation: Hello, how are you? -> Bonjour, comment \u00e7a va ?",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0009",
+    "text": "The word 'serendipity' means finding something good without looking for it.",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0010",
+    "text": "I love you in different languages: Je t'aime, Te quiero, Ich liebe dich, Ti amo.",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0011",
+    "text": "\u4eca\u5929\u5929\u6c14\u5f88\u597d\uff0c\u6211\u4eec\u53bb\u516c\u56ed\u6563\u6b65\u5427\u3002",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0012",
+    "text": "In linguistics, a phoneme is the smallest unit of sound that distinguishes meaning.",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0013",
+    "text": "The English language has approximately 170,000 words in current use.",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0014",
+    "text": "Arabic: \u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643\u0645 \u0648\u0631\u062d\u0645\u0629 \u0627\u0644\u0644\u0647 \u0648\u0628\u0631\u0643\u0627\u062a\u0647",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0015",
+    "text": "Korean: \uc548\ub155\ud558\uc138\uc694, \uc624\ub298 \ub0a0\uc528\uac00 \uc815\ub9d0 \uc88b\ub124\uc694.",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0016",
+    "text": "Italian: La cucina italiana \u00e8 famosa in tutto il mondo per la pizza e la pasta.",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0017",
+    "text": "Swahili: Habari yako? Nzuri sana, asante.",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0018",
+    "text": "Hindi: \u0928\u092e\u0938\u094d\u0924\u0947, \u0906\u092a \u0915\u0948\u0938\u0947 \u0939\u0948\u0902? \u092e\u0948\u0902 \u0920\u0940\u0915 \u0939\u0942\u0901\u0964",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0019",
+    "text": "Turkish: Merhaba, bug\u00fcn hava \u00e7ok g\u00fczel. Parka gidelim mi?",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0020",
+    "text": "Dutch: De kat zit op de mat en kijkt naar buiten.",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0021",
+    "text": "Polish: Lubi\u0119 czyta\u0107 ksi\u0105\u017cki i pi\u0107 kaw\u0119 rano.",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0022",
+    "text": "Vietnamese: Ch\u00e0o bu\u1ed5i s\u00e1ng, b\u1ea1n c\u00f3 kh\u1ecfe kh\u00f4ng?",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0023",
+    "text": "Greek: \u039a\u03b1\u03bb\u03b7\u03bc\u03ad\u03c1\u03b1! \u03a0\u03ce\u03c2 \u03b5\u03af\u03c3\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1;",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0024",
+    "text": "Swedish: Hej! Vad heter du? Jag heter Anna.",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0025",
+    "text": "Finnish: Hyv\u00e4\u00e4 huomenta! Kahvi on valmista.",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0026",
+    "text": "Hebrew: \u05e9\u05dc\u05d5\u05dd, \u05de\u05d4 \u05e9\u05dc\u05d5\u05de\u05da? \u05d0\u05e0\u05d9 \u05d1\u05e1\u05d3\u05e8 \u05ea\u05d5\u05d3\u05d4.",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0027",
+    "text": "Thai: \u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e04\u0e23\u0e31\u0e1a \u0e2a\u0e1a\u0e32\u0e22\u0e14\u0e35\u0e44\u0e2b\u0e21\u0e04\u0e23\u0e31\u0e1a",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0028",
+    "text": "Indonesian: Selamat pagi, apa kabar? Saya baik.",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0029",
+    "text": "Czech: Dobr\u00e9 r\u00e1no, jak se m\u00e1\u0161? M\u00e1m se dob\u0159e.",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0030",
+    "text": "Hungarian: J\u00f3 reggelt! Hogy vagy? K\u00f6sz\u00f6n\u00f6m, j\u00f3l.",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0031",
+    "text": "Romanian: Bun\u0103 diminea\u021ba! Ce mai faci?",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0032",
+    "text": "Danish: Godmorgen! Hvordan har du det?",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0033",
+    "text": "Norwegian: God morgen! Hvordan g\u00e5r det?",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0034",
+    "text": "Icelandic: G\u00f3\u00f0an daginn! Hvernig hefur\u00f0u \u00fea\u00f0?",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0035",
+    "text": "Bulgarian: \u0414\u043e\u0431\u0440\u043e \u0443\u0442\u0440\u043e! \u041a\u0430\u043a \u0441\u0438?",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0036",
+    "text": "Serbian: \u0414\u043e\u0431\u0440\u043e \u0458\u0443\u0442\u0440\u043e! \u041a\u0430\u043a\u043e \u0441\u0438?",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0037",
+    "text": "Ukrainian: \u0414\u043e\u0431\u0440\u043e\u0433\u043e \u0440\u0430\u043d\u043a\u0443! \u042f\u043a \u0441\u043f\u0440\u0430\u0432\u0438?",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0038",
+    "text": "Slovak: Dobr\u00e9 r\u00e1no! Ako sa m\u00e1\u0161?",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0039",
+    "text": "Lithuanian: Labas rytas! Kaip sekasi?",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0040",
+    "text": "Latvian: Labr\u012bt! K\u0101 tev iet?",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0041",
+    "text": "Estonian: Tere hommikust! Kuidas l\u00e4heb?",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0042",
+    "text": "Maltese: Bon\u0121u! Kif int?",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0043",
+    "text": "Irish: Dia duit! Conas at\u00e1 t\u00fa?",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0044",
+    "text": "Welsh: Bore da! Sut wyt ti?",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0045",
+    "text": "Scottish Gaelic: Madainn mhath! Ciamar a tha thu?",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0046",
+    "text": "Basque: Egun on! Zer moduz?",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0047",
+    "text": "Catalan: Bon dia! Com est\u00e0s?",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0048",
+    "text": "Galician: Bo d\u00eda! Como est\u00e1s?",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0049",
+    "text": "Esperanto: Bonan matenon! Kiel vi fartas?",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0050",
+    "text": "Yiddish: \u05d0 \u05d2\u05d5\u05d8\u05df \u05de\u05d0\u05b8\u05e8\u05d2\u05df! \u05d5\u05d5\u05d9 \u05d2\u05d9\u05d9\u05d8 \u05e2\u05e1?",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0051",
+    "text": "Persian: \u0635\u0628\u062d \u0628\u062e\u06cc\u0631! \u062d\u0627\u0644\u062a \u0686\u0637\u0648\u0631 \u0627\u0633\u062a\u061f",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0052",
+    "text": "Urdu: \u0635\u0628\u062d \u0628\u062e\u06cc\u0631! \u0622\u067e \u06a9\u06cc\u0633\u06d2 \u06c1\u06cc\u06ba\u061f",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0053",
+    "text": "Bengali: \u09b8\u09c1\u09aa\u09cd\u09b0\u09ad\u09be\u09a4! \u0986\u09aa\u09a8\u09bf \u0995\u09c7\u09ae\u09a8 \u0986\u099b\u09c7\u09a8?",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0054",
+    "text": "Tamil: \u0b95\u0bbe\u0bb2\u0bc8 \u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd! \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd?",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0055",
+    "text": "Telugu: \u0c36\u0c41\u0c2d\u0c4b\u0c26\u0c2f\u0c02! \u0c2e\u0c40\u0c30\u0c41 \u0c0e\u0c32\u0c3e \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41?",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0056",
+    "text": "Kannada: \u0cb6\u0cc1\u0cad\u0ccb\u0ca6\u0caf! \u0ca8\u0cc0\u0cb5\u0cc1 \u0cb9\u0cc7\u0c97\u0cbf\u0ca6\u0ccd\u0ca6\u0cc0\u0cb0\u0cbf?",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0057",
+    "text": "Malayalam: \u0d38\u0d41\u0d2a\u0d4d\u0d30\u0d2d\u0d3e\u0d24\u0d02! \u0d38\u0d41\u0d16\u0d2e\u0d3e\u0d23\u0d4b?",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0058",
+    "text": "Marathi: \u0938\u0941\u092a\u094d\u0930\u092d\u093e\u0924! \u0924\u0941\u092e\u094d\u0939\u0940 \u0915\u0938\u0947 \u0906\u0939\u093e\u0924?",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0059",
+    "text": "Gujarati: \u0ab8\u0ac1\u0aaa\u0acd\u0ab0\u0aad\u0abe\u0aa4! \u0aa4\u0aae\u0ac7 \u0a95\u0ac7\u0aae \u0a9b\u0acb?",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0060",
+    "text": "Punjabi: \u0a38\u0a3c\u0a41\u0a2d \u0a38\u0a35\u0a47\u0a30! \u0a24\u0a41\u0a38\u0a40\u0a02 \u0a15\u0a3f\u0a35\u0a47\u0a02 \u0a39\u0a4b?",
+    "source": "CC-100",
+    "url": "https://data.statmt.org/cc-100/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0061",
+    "text": "Nepali: \u0936\u0941\u092d \u092a\u094d\u0930\u092d\u093e\u0924! \u0924\u092a\u093e\u0908\u0902\u0932\u093e\u0908 \u0915\u0938\u094d\u0924\u094b \u091b?",
+    "source": "mC4",
+    "url": "https://huggingface.co/datasets/mc4",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0062",
+    "text": "Sinhala: \u0dc3\u0dd4\u0db7 \u0d8b\u0daf\u0dd1\u0dc3\u0db1\u0d9a\u0dca! \u0d94\u0db6\u0da7 \u0d9a\u0ddc\u0dc4\u0ddc\u0db8\u0daf?",
+    "source": "CulturaX",
+    "url": "https://huggingface.co/datasets/uonlp/CulturaX",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0063",
+    "text": "Burmese: \u1019\u1004\u103a\u1039\u1002\u101c\u102c\u1014\u1036\u1014\u1000\u103a\u1001\u1004\u103a\u1038\u1015\u102b\u104b \u1014\u1031\u1000\u1031\u102c\u1004\u103a\u1038\u101c\u102c\u1038\u104b",
+    "source": "OPUS",
+    "url": "https://opus.nlpl.eu/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "ll0064",
+    "text": "Khmer: \u17a2\u179a\u17bb\u178e\u179f\u17bd\u179f\u17d2\u178f\u17b8! \u179f\u17bb\u1781\u179f\u1794\u17d2\u1794\u17b6\u1799\u1787\u17b6\u1791\u17c1?",
+    "source": "Glot500",
+    "url": "https://huggingface.co/datasets/cis-lmu/Glot500",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Language_Linguistics",
+    "dependencies": []
+  },
+  {
+    "id": "hb0001",
+    "text": "I just got promoted at work! Feeling incredibly grateful and excited for the new challenges ahead.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2023-06-15T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0002",
+    "text": "It is wrong to lie because it violates trust and harms relationships.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0003",
+    "text": "A man sees a wallet on the ground. He picks it up and returns it to the owner who thanks him sincerely.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0004",
+    "text": "Human: How do I make new friends in a new city? Assistant: Join local clubs, attend meetups, volunteer, and be open to conversations.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0005",
+    "text": "Today I learned that the bystander effect describes why people are less likely to help in a crowd.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2023-07-20T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0006",
+    "text": "You should treat others the way you want to be treated.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0007",
+    "text": "A child shares their lunch with a classmate who forgot theirs. The classmate smiles and says thank you.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0008",
+    "text": "Human: What's the best way to handle a disagreement with a coworker? Assistant: Listen actively, find common ground, and focus on the issue not the person.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0009",
+    "text": "Feeling anxious about my job interview tomorrow. Any last-minute tips?",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2023-08-05T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0010",
+    "text": "Stealing is bad because it takes something that doesn't belong to you.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0011",
+    "text": "A woman donates her old clothes to a shelter. The recipients feel warm and cared for.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0012",
+    "text": "Human: How can I be more empathetic? Assistant: Practice active listening, imagine others' perspectives, and ask open-ended questions.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0013",
+    "text": "Just finished reading 'Thinking, Fast and Slow' \u2013 fascinating insights into cognitive biases.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2023-09-12T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0014",
+    "text": "Helping others is good for your mental health and builds community.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0015",
+    "text": "A student helps a younger kid who is being bullied. The younger kid feels safe and grateful.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0016",
+    "text": "Human: Should I confront my friend about something that bothered me? Assistant: Choose a private, calm moment and use 'I' statements to express your feelings.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0017",
+    "text": "What are some good books on behavioral economics? Recommendations appreciated.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2023-10-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0018",
+    "text": "Being honest builds trust and strengthens relationships.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0019",
+    "text": "A community comes together to clean up a local park. The park becomes a nicer place for everyone.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0020",
+    "text": "Human: How to deal with jealousy in a relationship? Assistant: Communicate openly, focus on self-improvement, and trust your partner.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0021",
+    "text": "I'm trying to practice gratitude daily. Today I'm thankful for my supportive family.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2023-11-15T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0022",
+    "text": "Forgiving others can be difficult but frees you from resentment.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0023",
+    "text": "A person anonymously pays for a stranger's groceries. The stranger is surprised and touched.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0024",
+    "text": "Human: How can I be more confident in social situations? Assistant: Prepare topics, practice small talk, and remember people are often focused on themselves.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0025",
+    "text": "Has anyone tried the '5-second rule' for procrastination? Does it work?",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2023-12-03T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0026",
+    "text": "Respecting others' opinions even when you disagree promotes healthy dialogue.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0027",
+    "text": "A teenager volunteers at a nursing home and brightens the residents' day with conversation.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0028",
+    "text": "Human: Is it okay to set boundaries with family? Assistant: Absolutely. Healthy boundaries protect your well-being and can improve relationships.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0029",
+    "text": "What's the psychology behind why we love cute animal videos? It boosts dopamine and reduces stress.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-01-08T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0030",
+    "text": "Being kind to yourself is just as important as being kind to others.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0031",
+    "text": "A teacher stays after school to help a struggling student. The student improves and gains confidence.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0032",
+    "text": "Human: How do I stop comparing myself to others on social media? Assistant: Curate your feed, limit usage, and remind yourself posts are highlights not reality.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0033",
+    "text": "Just had a great conversation with a stranger on the bus. Small moments matter.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-02-14T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0034",
+    "text": "Taking responsibility for your mistakes shows maturity and earns respect.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0035",
+    "text": "A man finds a lost dog and uses social media to reunite it with its owner.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0036",
+    "text": "Human: What's a good way to apologize sincerely? Assistant: Acknowledge the specific harm, express regret, offer to make amends, and change behavior.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0037",
+    "text": "Research shows that spending money on experiences brings more happiness than material goods.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-03-02T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0038",
+    "text": "Gossiping can harm reputations and trust within a group.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0039",
+    "text": "A girl stands up for a classmate who is being teased. The teasing stops and the classmate feels supported.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0040",
+    "text": "Human: How to maintain long-distance friendships? Assistant: Schedule regular calls, share daily updates, and plan visits when possible.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0041",
+    "text": "I've started meditating 10 minutes a day and it's helping my anxiety so much.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-04-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0042",
+    "text": "Being a good listener is a valuable skill in both personal and professional life.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0043",
+    "text": "A family donates their holiday gifts to a children's hospital instead of exchanging among themselves.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0044",
+    "text": "Human: I feel guilty about saying no to a request. How do I overcome that? Assistant: Remember that your time and energy are limited; saying no allows you to say yes to what matters most.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0045",
+    "text": "Does anyone else find it hard to make phone calls? Texting is so much easier.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-05-10T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0046",
+    "text": "Patience is a virtue, especially in difficult situations.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0047",
+    "text": "A boy admits he broke a window accidentally and offers to pay for repairs.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0048",
+    "text": "Human: How can I support a grieving friend? Assistant: Just be present, listen without judgment, and offer practical help like meals or errands.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0049",
+    "text": "The concept of 'flow' \u2013 being completely absorbed in an activity \u2013 is key to happiness.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-06-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0050",
+    "text": "Sharing credit with others builds a collaborative spirit.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0051",
+    "text": "A group of coworkers cover shifts for a colleague with a sick child.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0052",
+    "text": "Human: How to give constructive criticism without offending? Assistant: Use the 'sandwich' method: positive, then improvement area, then positive again.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0053",
+    "text": "Any tips for staying focused while working from home? Distractions are real.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-07-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0054",
+    "text": "Expressing gratitude regularly improves well-being and strengthens relationships.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0055",
+    "text": "A stranger helps an elderly person cross a busy street.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0056",
+    "text": "Human: How do I deal with a micromanaging boss? Assistant: Provide regular updates proactively, ask for clarity on expectations, and build trust through consistent performance.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0057",
+    "text": "Just learned about the Dunning-Kruger effect \u2013 explains so much about online debates.",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-08-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0058",
+    "text": "Being open-minded allows you to learn from different perspectives.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0059",
+    "text": "A student returns a lost library book and pays the late fee even though it wasn't their fault.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0060",
+    "text": "Human: What's the best way to ask for a raise? Assistant: Document your achievements, research market rates, and schedule a meeting to present your case professionally.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0061",
+    "text": "Feeling a bit lonely lately. How do others cope with periods of solitude?",
+    "source": "PushShift Reddit",
+    "url": "https://pushshift.io/",
+    "timestamp": "2024-09-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0062",
+    "text": "Humility involves recognizing your own limitations and valuing others' contributions.",
+    "source": "Social Chemistry 101",
+    "url": "https://huggingface.co/datasets/SocialChemistry101",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0063",
+    "text": "A doctor stays late to comfort a worried patient's family.",
+    "source": "Moral Stories",
+    "url": "https://huggingface.co/datasets/demelin/moral_stories",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "hb0064",
+    "text": "Human: How to overcome fear of public speaking? Assistant: Practice, start small, focus on the message, and remember the audience wants you to succeed.",
+    "source": "HH-RLHF",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Human_Behavior_Social_Sciences",
+    "dependencies": []
+  },
+  {
+    "id": "ea0001",
+    "text": "A method for manufacturing semiconductor devices comprising: providing a substrate; depositing a dielectric layer; patterning the dielectric layer to form a trench; filling the trench with copper.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240123456A1/",
+    "timestamp": "2024-02-10T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0002",
+    "text": "A combustion engine comprising: a cylinder; a piston reciprocating within the cylinder; a spark plug; and a fuel injector configured to inject fuel directly into the cylinder.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US98765432B2/",
+    "timestamp": "2023-07-15T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0003",
+    "text": "Method for creating microchips: deposit layers, etch, and dope with ions.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240111111A1/",
+    "timestamp": "2024-02-01T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0004",
+    "text": "A method for producing composite materials: layering fiber sheets with resin, curing under heat and pressure.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240122222A1/",
+    "timestamp": "2024-01-15T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0005",
+    "text": "Design of a wind turbine blade with optimized aerofoil shape for maximum lift-to-drag ratio.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240098765A1/",
+    "timestamp": "2023-12-20T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0006",
+    "text": "A hydraulic press comprising: a cylinder; a piston; a fluid reservoir; and a pressure regulation system.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20230123456A1/",
+    "timestamp": "2023-10-01T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0007",
+    "text": "Method for 3D printing metal parts: layer-by-layer deposition using selective laser melting.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240133333A1/",
+    "timestamp": "2024-01-10T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0008",
+    "text": "Process for refining crude oil: distillation, catalytic cracking, and hydroprocessing.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240012345A1/",
+    "timestamp": "2023-11-05T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0009",
+    "text": "Method for producing glass: melting silica with fluxing agents at high temperature, then controlled cooling.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240109876A1/",
+    "timestamp": "2024-02-01T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0010",
+    "text": "Automotive braking system comprising disc brakes, hydraulic lines, and ABS control unit.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20230187654A1/",
+    "timestamp": "2023-08-25T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0011",
+    "text": "Aircraft wing design: tapered planform with winglets to reduce induced drag.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240045678A1/",
+    "timestamp": "2023-09-15T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0012",
+    "text": "Solar panel manufacturing: layering photovoltaic cells, encapsulant, and glass cover.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240155555A1/",
+    "timestamp": "2024-01-20T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0013",
+    "text": "Method for desalination: reverse osmosis through semi-permeable membranes.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240087654A1/",
+    "timestamp": "2023-12-15T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0014",
+    "text": "Concrete formulation: cement, aggregates, water, and admixtures for specific strength and durability.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240099887A1/",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0015",
+    "text": "Robotic arm control system: servo motors, feedback sensors, and trajectory planning algorithms.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240144444A1/",
+    "timestamp": "2024-02-05T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0016",
+    "text": "Pipeline design: steel tubing, pressure regulation valves, and corrosion inhibitors.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240076543A1/",
+    "timestamp": "2023-12-05T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0017",
+    "text": "Water treatment system: filtration, UV sterilization, and chemical dosing.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240123412A1/",
+    "timestamp": "2024-01-05T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0018",
+    "text": "Battery pack assembly: lithium-ion cells, thermal management, and protection circuitry.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240198765A1/",
+    "timestamp": "2024-02-15T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0019",
+    "text": "Electric motor manufacturing: rotor winding, stator lamination, and insulation.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240111122A1/",
+    "timestamp": "2024-02-12T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0020",
+    "text": "HVAC system design: ductwork layout, airflow optimization, and energy-efficient components.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240099988A1/",
+    "timestamp": "2023-12-20T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0021",
+    "text": "Hydroelectric turbine: blade design, rotational mechanics, and generator coupling.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240133322A1/",
+    "timestamp": "2024-01-30T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0022",
+    "text": "Chemical reactor design: temperature and pressure control, mixing, and reaction kinetics.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240144433A1/",
+    "timestamp": "2024-02-08T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0023",
+    "text": "Additive manufacturing of polymers: layer deposition and curing.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240012356A1/",
+    "timestamp": "2023-12-10T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0024",
+    "text": "Fiber optic cable assembly: glass fibers, cladding, and protective jacket.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240123478A1/",
+    "timestamp": "2024-01-22T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0025",
+    "text": "Method for manufacturing electronic sensors: deposition, patterning, and encapsulation.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240134567A1/",
+    "timestamp": "2024-02-18T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0026",
+    "text": "Mechanical gear assembly: shafts, bearings, and lubrication system.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240156789A1/",
+    "timestamp": "2024-02-20T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0027",
+    "text": "Pneumatic actuator system: cylinder, piston, and pressure control valves.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240087655A1/",
+    "timestamp": "2023-12-15T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0028",
+    "text": "Method for producing reinforced concrete: steel rebar placement, concrete pouring, and curing.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240123479A1/",
+    "timestamp": "2024-01-12T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0029",
+    "text": "High-pressure gas pipeline: steel tubing, safety valves, and monitoring sensors.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240109877A1/",
+    "timestamp": "2024-02-02T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0030",
+    "text": "Advanced battery recycling methods: separation of lithium, cobalt, and nickel using hydrometallurgical processes.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240167890A1/",
+    "timestamp": "2024-02-25T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0031",
+    "text": "AI-based structural health monitoring: using sensors and deep learning to detect cracks and stress points in bridges.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2103.12345",
+    "timestamp": "2021-03-15T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0032",
+    "text": "Self-healing concrete incorporating microcapsules containing healing agents that release upon crack formation.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240178901A1/",
+    "timestamp": "2024-02-26T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0033",
+    "text": "Additive manufacturing of metals with in-situ alloying for optimized mechanical properties.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240189012A1/",
+    "timestamp": "2024-02-27T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0034",
+    "text": "Robust control of autonomous drones using sensor fusion and predictive modeling for obstacle avoidance.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2201.01234",
+    "timestamp": "2022-01-05T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0035",
+    "text": "Nanostructured coatings for corrosion resistance in marine environments, optimized via electrochemical deposition.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190123A1/",
+    "timestamp": "2024-02-28T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0036",
+    "text": "Energy-efficient HVAC system using adaptive control and variable-speed compressors.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191234A1/",
+    "timestamp": "2024-03-01T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0037",
+    "text": "Automated pipeline inspection using robotics and computer vision for leak detection.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240192345A1/",
+    "timestamp": "2024-03-02T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0038",
+    "text": "High-temperature superconducting cables for power transmission with minimized resistive losses.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240193456A1/",
+    "timestamp": "2024-03-03T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0039",
+    "text": "Carbon capture systems for industrial plants using amine-based absorption and regeneration cycles.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240194567A1/",
+    "timestamp": "2024-03-04T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0040",
+    "text": "Hybrid powertrain optimization for electric and combustion engines using predictive energy management.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240195678A1/",
+    "timestamp": "2024-03-05T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0041",
+    "text": "Microfluidic lab-on-a-chip devices for rapid chemical and biological analysis.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240196789A1/",
+    "timestamp": "2024-03-06T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0042",
+    "text": "Advanced wind turbine control using adaptive pitch and yaw strategies for variable wind conditions.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240197890A1/",
+    "timestamp": "2024-03-07T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0043",
+    "text": "Additive manufacturing of ceramics with graded porosity for biomedical implants.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240198901A1/",
+    "timestamp": "2024-03-08T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0044",
+    "text": "Real-time structural vibration monitoring using embedded fiber optic sensors and machine learning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2203.04567",
+    "timestamp": "2022-03-10T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0045",
+    "text": "Smart grid energy optimization using predictive load forecasting and distributed control.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240199012A1/",
+    "timestamp": "2024-03-09T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0046",
+    "text": "Robust design of offshore platforms accounting for wave, wind, and seismic loads.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190134A1/",
+    "timestamp": "2024-03-10T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0047",
+    "text": "Automated quality control in semiconductor fabrication using machine vision and AI defect detection.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190245A1/",
+    "timestamp": "2024-03-11T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0048",
+    "text": "Advanced turbine blade cooling using internal microchannels and high thermal conductivity materials.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190356A1/",
+    "timestamp": "2024-03-12T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0049",
+    "text": "Autonomous vehicle perception: sensor fusion from lidar, radar, and cameras for robust environment mapping.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2204.12345",
+    "timestamp": "2022-04-01T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0050",
+    "text": "Smart concrete with embedded sensors to monitor curing and structural health over time.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190467A1/",
+    "timestamp": "2024-03-13T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0051",
+    "text": "Heat exchanger design for process industry using CFD optimization and enhanced surface geometries.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190578A1/",
+    "timestamp": "2024-03-14T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0052",
+    "text": "High-speed rail aerodynamics: streamlined nose design and vortex suppression for reduced drag.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190689A1/",
+    "timestamp": "2024-03-15T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0053",
+    "text": "Microchip photolithography with extreme ultraviolet light for sub-5nm node fabrication.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190790A1/",
+    "timestamp": "2024-03-16T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0054",
+    "text": "Electrochemical water splitting for hydrogen production using novel catalyst materials.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190801A1/",
+    "timestamp": "2024-03-17T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0055",
+    "text": "Automated agricultural machinery: GPS-guided tractors with real-time crop monitoring sensors.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190912A1/",
+    "timestamp": "2024-03-18T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0056",
+    "text": "Ultra-lightweight aerospace materials using carbon nanotube composites for structural components.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191023A1/",
+    "timestamp": "2024-03-19T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0057",
+    "text": "Real-time traffic optimization using vehicle-to-infrastructure communication and predictive AI models.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191134A1/",
+    "timestamp": "2024-03-20T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0058",
+    "text": "Energy harvesting systems using piezoelectric and thermoelectric materials for low-power devices.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191245A1/",
+    "timestamp": "2024-03-21T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0059",
+    "text": "AI-assisted structural design: generative design algorithms producing lightweight and strong geometries.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2301.12345",
+    "timestamp": "2023-01-10T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0060",
+    "text": "Industrial additive manufacturing: multi-material 3D printing for complex mechanical assemblies.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191356A1/",
+    "timestamp": "2024-03-22T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0061",
+    "text": "Automated chemical process control: AI models predicting reaction kinetics and adjusting feed rates.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191467A1/",
+    "timestamp": "2024-03-23T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0062",
+    "text": "Next-generation battery technology: solid-state electrolytes for improved safety and energy density.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240200123A1/",
+    "timestamp": "2024-06-01T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0063",
+    "text": "Spacecraft thermal protection system using ablative materials and active cooling channels.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240200234A1/",
+    "timestamp": "2024-06-02T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "ea0064",
+    "text": "Seismic base isolation for buildings using friction pendulum bearings.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240200345A1/",
+    "timestamp": "2024-06-03T00:00:00Z",
+    "category": "Engineering_Applied",
+    "dependencies": []
+  },
+  {
+    "id": "rw0001",
+    "text": "How to change a car tire: 1. Loosen lug nuts. 2. Jack up the car. 3. Remove lug nuts and tire. 4. Mount spare tire. 5. Tighten lug nuts. 6. Lower car. 7. Final tighten.",
+    "source": "WikiHow",
+    "url": "https://www.wikihow.com/Change-a-Tire",
+    "timestamp": "2023-10-20T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0002",
+    "text": "How to boil an egg: Place egg in pot, cover with water, bring to boil, turn off heat, cover, let sit for 9-12 minutes, then ice bath.",
+    "source": "Instructables",
+    "url": "https://www.instructables.com/How-to-Boil-an-Egg/",
+    "timestamp": "2023-09-05T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0003",
+    "text": "How to assemble a bookshelf: Unpack, attach sides, screw shelves, tighten screws.",
+    "source": "WikiHow",
+    "url": "https://www.wikihow.com/Assemble-a-Bookshelf",
+    "timestamp": "2023-09-20T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0004",
+    "text": "How to bake chocolate chip cookies: Cream butter and sugar, add eggs and vanilla, mix dry ingredients, combine, fold in chips, drop onto sheet, bake at 375\u00b0F for 9-11 minutes.",
+    "source": "AllRecipes",
+    "url": "https://www.allrecipes.com/",
+    "timestamp": "2023-08-15T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0005",
+    "text": "How to unclog a sink: Remove standing water, use plunger, try baking soda and vinegar, if needed remove trap and clean.",
+    "source": "FamilyHandyman",
+    "url": "https://www.familyhandyman.com/",
+    "timestamp": "2023-07-22T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0006",
+    "text": "How to plant a tree: Dig hole twice width of root ball, place tree, backfill soil, water thoroughly, mulch.",
+    "source": "Gardening Know How",
+    "url": "https://www.gardeningknowhow.com/",
+    "timestamp": "2023-04-10T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0007",
+    "text": "How to change engine oil: Warm up engine, lift car, drain oil, replace filter, refill with new oil, check level.",
+    "source": "Haynes Manuals",
+    "url": "https://haynes.com/en-us/",
+    "timestamp": "2023-05-18T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0008",
+    "text": "How to do a push-up: Place hands shoulder-width apart, keep body straight, lower chest to ground, push back up.",
+    "source": "Bodybuilding.com",
+    "url": "https://www.bodybuilding.com/",
+    "timestamp": "2023-06-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0009",
+    "text": "How to write a Python loop: for i in range(10): print(i)",
+    "source": "GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0010",
+    "text": "How to take a portrait photo: Use natural light, focus on eyes, choose a clean background, adjust aperture for blur.",
+    "source": "Digital Photography School",
+    "url": "https://digital-photography-school.com/",
+    "timestamp": "2023-02-14T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0011",
+    "text": "How to tie a tie: Drape around neck, cross wide end over narrow, bring up through loop, down through knot, tighten.",
+    "source": "WikiHow",
+    "url": "https://www.wikihow.com/Tie-a-Tie",
+    "timestamp": "2023-03-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0012",
+    "text": "How to sew a button: Thread needle, knot end, push through fabric and button holes several times, wrap thread under button, knot.",
+    "source": "Tilly and the Buttons",
+    "url": "https://www.tillyandthebuttons.com/",
+    "timestamp": "2023-01-15T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0013",
+    "text": "How to set up a smart speaker: Plug in, download app, connect to Wi-Fi, follow voice prompts.",
+    "source": "Smart Home Solver",
+    "url": "https://smarthomesolver.com/",
+    "timestamp": "2023-07-05T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0014",
+    "text": "How to build a LEGO car: Gather wheels, chassis, bricks; assemble base, add wheels, body, and details.",
+    "source": "LEGO Education",
+    "url": "https://education.lego.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0015",
+    "text": "How to play a C chord on guitar: Place index on 1st fret B string, middle on 2nd fret D string, ring on 3rd fret A string, strum.",
+    "source": "Yousician",
+    "url": "https://www.yousician.com/",
+    "timestamp": "2023-08-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0016",
+    "text": "How to do the moonwalk: Start with feet together, slide one foot back while keeping weight on other, switch smoothly.",
+    "source": "Steezy Studio",
+    "url": "https://www.steezy.co/",
+    "timestamp": "2023-05-20T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0017",
+    "text": "How to solder wires: Strip insulation, twist wires, heat joint with iron, apply solder, let cool.",
+    "source": "Adafruit Learning System",
+    "url": "https://learn.adafruit.com/",
+    "timestamp": "2023-04-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0018",
+    "text": "How to 3D print an object: Download STL file, slice in software, load filament, start print, remove when done.",
+    "source": "Ultimaker",
+    "url": "https://ultimaker.com/learn",
+    "timestamp": "2023-02-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0019",
+    "text": "How to start a campfire: Gather tinder, kindling, fuel wood; build teepee or log cabin; light tinder.",
+    "source": "REI Co-op",
+    "url": "https://www.rei.com/",
+    "timestamp": "2023-06-10T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0020",
+    "text": "How to perform CPR: Check responsiveness, call 911, do 30 chest compressions, then 2 rescue breaths, repeat.",
+    "source": "St John Ambulance",
+    "url": "https://www.sja.org.uk/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0021",
+    "text": "How to make a smoothie: Add fruit, yogurt, liquid, and ice to blender; blend until smooth.",
+    "source": "AllRecipes",
+    "url": "https://www.allrecipes.com/",
+    "timestamp": "2023-03-15T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0022",
+    "text": "How to change a diaper: Place baby on safe surface, remove dirty diaper, clean area, put on new diaper, secure tabs.",
+    "source": "WikiHow",
+    "url": "https://www.wikihow.com/Change-a-Diaper",
+    "timestamp": "2023-09-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0023",
+    "text": "How to fold a paper airplane: Fold paper in half lengthwise, fold corners to center, fold again to make wings.",
+    "source": "Origami Instructions",
+    "url": "https://www.origami-instructions.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0024",
+    "text": "How to train a dog to sit: Hold treat above nose, move back, when dog sits say 'sit' and reward.",
+    "source": "American Kennel Club",
+    "url": "https://www.akc.org/",
+    "timestamp": "2023-02-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0025",
+    "text": "How to play chess: Set up board, pieces move differently, goal is checkmate opponent's king.",
+    "source": "BoardGameGeek",
+    "url": "https://boardgamegeek.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0026",
+    "text": "How to knit a scarf: Cast on stitches, knit every row until desired length, cast off.",
+    "source": "Ravelry",
+    "url": "https://www.ravelry.com/",
+    "timestamp": "2023-10-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0027",
+    "text": "How to hang a picture: Measure and mark, hammer in nail or wall anchor, hang picture, level.",
+    "source": "This Old House",
+    "url": "https://www.thisoldhouse.com/",
+    "timestamp": "2023-03-10T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0028",
+    "text": "How to replace a smartphone screen: Heat edges, remove screws, disconnect cables, replace screen, reassemble.",
+    "source": "iFixit",
+    "url": "https://www.ifixit.com/",
+    "timestamp": "2023-07-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0029",
+    "text": "How to declutter a room: Sort items into keep, donate, trash; put keep items in designated spots.",
+    "source": "The Spruce",
+    "url": "https://www.thespruce.com/",
+    "timestamp": "2023-04-05T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0030",
+    "text": "How to bake bread: Mix flour, water, yeast, salt; knead; let rise; shape; rise again; bake at 450\u00b0F.",
+    "source": "King Arthur Baking",
+    "url": "https://www.kingarthurbaking.com/",
+    "timestamp": "2023-05-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0031",
+    "text": "How to arrange furniture: Measure room, plan focal point, leave walkways, balance visual weight.",
+    "source": "Houzz",
+    "url": "https://www.houzz.com/",
+    "timestamp": "2023-02-20T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0032",
+    "text": "How to create a budget: List income, track expenses, categorize, set spending limits, review monthly.",
+    "source": "NerdWallet",
+    "url": "https://www.nerdwallet.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0033",
+    "text": "How to groom a dog: Brush fur, trim nails, clean ears, bathe with dog shampoo, dry.",
+    "source": "PetMD",
+    "url": "https://www.petmd.com/",
+    "timestamp": "2023-06-15T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0034",
+    "text": "How to set up a tent: Lay out footprint, assemble poles, attach to tent body, stake down, add rainfly.",
+    "source": "REI Co-op",
+    "url": "https://www.rei.com/",
+    "timestamp": "2023-07-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0035",
+    "text": "How to fly a drone: Charge batteries, calibrate compass, take off slowly, use gentle stick movements.",
+    "source": "DJI Tutorials",
+    "url": "https://www.dji.com/",
+    "timestamp": "2023-08-10T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0036",
+    "text": "How to sail a small boat: Understand wind direction, adjust sails, steer with tiller, tack or jibe to turn.",
+    "source": "Sail Magazine",
+    "url": "https://www.sailmagazine.com/",
+    "timestamp": "2023-05-25T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0037",
+    "text": "How to fix a bike chain: Use chain tool to push pin, remove broken link, replace with new link or reconnect.",
+    "source": "Park Tool",
+    "url": "https://www.parktool.com/blog/repair-help",
+    "timestamp": "2023-04-12T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0038",
+    "text": "How to tie a bowline knot: Form loop, pass end up through loop, around standing part, back down loop, tighten.",
+    "source": "Animated Knots",
+    "url": "https://www.animatedknots.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0039",
+    "text": "How to build a birdhouse: Cut wood pieces, assemble with screws, drill entrance hole, sand, paint or stain.",
+    "source": "Wood Magazine",
+    "url": "https://www.woodmagazine.com/",
+    "timestamp": "2023-03-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0040",
+    "text": "How to weld metal: Clean surfaces, set welder amperage, strike arc, move in steady motion.",
+    "source": "Practical Machinist",
+    "url": "https://www.practicalmachinist.com/",
+    "timestamp": "2023-06-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0041",
+    "text": "How to thread a sewing machine: Place spool, guide thread through tension discs, take-up lever, needle eye.",
+    "source": "Sewing.org",
+    "url": "https://www.sewing.org/",
+    "timestamp": "2023-02-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0042",
+    "text": "How to write calligraphy: Hold pen at 45\u00b0, apply light pressure on upstrokes, heavy on downstrokes.",
+    "source": "The Postman's Knock",
+    "url": "https://thepostmansknock.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0043",
+    "text": "How to brew beer at home: Sanitize equipment, boil malt extract and hops, cool, add yeast, ferment 2 weeks, bottle.",
+    "source": "HomeBrewTalk",
+    "url": "https://www.homebrewtalk.com/",
+    "timestamp": "2023-07-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0044",
+    "text": "How to do downward dog: Start on hands and knees, lift hips up, straighten legs, press heels toward floor.",
+    "source": "Yoga with Adriene",
+    "url": "https://www.youtube.com/user/yogawithadriene",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0045",
+    "text": "How to throw a jab in boxing: Extend lead hand straight, rotate fist, keep other hand guarding.",
+    "source": "Martial Arts Planet",
+    "url": "https://www.martialartsplanet.com/",
+    "timestamp": "2023-05-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0046",
+    "text": "How to give a speech: Outline key points, practice, make eye contact, speak clearly, use gestures.",
+    "source": "Toastmasters",
+    "url": "https://www.toastmasters.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0047",
+    "text": "How to edit a photo in Lightroom: Adjust exposure, contrast, white balance, crop, and export.",
+    "source": "Phlearn",
+    "url": "https://phlearn.com/",
+    "timestamp": "2023-03-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0048",
+    "text": "How to cut video in Premiere: Import clips, drag to timeline, use razor tool to cut, delete unwanted sections.",
+    "source": "Premiere Gal",
+    "url": "https://www.premieregal.com/",
+    "timestamp": "2023-04-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0049",
+    "text": "How to model a donut in Blender: Add torus, scale, apply subdivision surface, sculpt details, add materials.",
+    "source": "Blender Guru",
+    "url": "https://www.blenderguru.com/",
+    "timestamp": "2023-02-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0050",
+    "text": "How to mix a song: Set levels, pan instruments, EQ, compress, add reverb and effects, bounce to stereo.",
+    "source": "Produce Like A Pro",
+    "url": "https://www.producelikeapro.com/",
+    "timestamp": "2023-05-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0051",
+    "text": "How to improve grammar: Read regularly, practice writing, use grammar check tools, learn common rules.",
+    "source": "Grammar Girl",
+    "url": "https://www.quickanddirtytips.com/grammar-girl",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0052",
+    "text": "How to safely handle raw chicken: Keep separate from other foods, wash hands and surfaces, cook to 165\u00b0F internal.",
+    "source": "USDA",
+    "url": "https://www.fsis.usda.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0053",
+    "text": "How to plan a trip: Choose destination, book flights and accommodation, research activities, pack light.",
+    "source": "Lonely Planet",
+    "url": "https://www.lonelyplanet.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0054",
+    "text": "How to plan a party: Set date and budget, create guest list, choose venue, send invites, plan food and music.",
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/blog/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0055",
+    "text": "How to replace a light switch: Turn off power, remove cover, unscrew switch, disconnect wires, connect new switch, reassemble.",
+    "source": "FamilyHandyman Electrical",
+    "url": "https://www.familyhandyman.com/electrical/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0056",
+    "text": "How to fix a leaky faucet: Turn off water, disassemble handle, replace washer or cartridge, reassemble.",
+    "source": "This Old House Plumbing",
+    "url": "https://www.thisoldhouse.com/plumbing",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0057",
+    "text": "How to detail a car interior: Vacuum thoroughly, clean upholstery and carpets, wipe down all surfaces, condition leather.",
+    "source": "Chemical Guys",
+    "url": "https://www.chemicalguys.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0058",
+    "text": "How to paint a room: Prepare walls with spackle and sand, tape trim, apply primer, paint with roller in 'W' pattern.",
+    "source": "Sherwin-Williams",
+    "url": "https://www.sherwin-williams.com/homeowners",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0059",
+    "text": "How to start a vegetable garden: Choose sunny spot, prepare soil, plant seeds or seedlings, water regularly, weed.",
+    "source": "Gardening Know How",
+    "url": "https://www.gardeningknowhow.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0060",
+    "text": "How to use a fire extinguisher: Pull pin, aim at base of fire, squeeze handle, sweep side to side.",
+    "source": "Red Cross",
+    "url": "https://www.redcross.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0061",
+    "text": "How to sharpen a knife: Hold at 20\u00b0 angle against whetstone, push blade forward, repeat on other side.",
+    "source": "Instructables",
+    "url": "https://www.instructables.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0062",
+    "text": "How to make coffee with a French press: Add coarse grounds, pour hot water, stir, steep 4 minutes, press plunger down.",
+    "source": "WikiHow",
+    "url": "https://www.wikihow.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0063",
+    "text": "How to meditate: Sit comfortably, close eyes, focus on breath, when mind wanders gently return to breath.",
+    "source": "Headspace",
+    "url": "https://www.headspace.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "rw0064",
+    "text": "How to wrap a gift: Place box on wrapping paper, cut to size, fold edges, tape securely, add ribbon.",
+    "source": "Instructables",
+    "url": "https://www.instructables.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Real_World_Execution",
+    "dependencies": []
+  },
+  {
+    "id": "ds0001",
+    "text": "FreeLaw provides access to US legal opinions, statutes, and case law.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0002",
+    "text": "MultiLegal aggregates legal texts from multiple jurisdictions for comparative studies.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0003",
+    "text": "MIMIC contains de-identified clinical data for research in critical care and patient outcomes.",
+    "source": "PhysioNet",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0004",
+    "text": "Clinical notes datasets provide structured and unstructured patient records for research and model training.",
+    "source": "PubMed Central",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0005",
+    "text": "Electronic health record (EHR) corpora contain longitudinal patient data for predictive modeling.",
+    "source": "PhysioNet",
+    "url": "https://physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0006",
+    "text": "Patent datasets include USPTO and EPO filings for technology trend analysis and research.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0007",
+    "text": "Biomedical literature datasets aggregate research papers for NLP tasks and scientific discovery.",
+    "source": "PubMed Central",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0008",
+    "text": "Court case summaries provide concise overviews of judicial opinions for legal research.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0009",
+    "text": "Medical imaging datasets provide annotated scans for training diagnostic models.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0010",
+    "text": "Pharmacological datasets contain information on drugs, dosages, and therapeutic indications.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0011",
+    "text": "Clinical trials registries provide structured data on trial design, participants, and outcomes.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0012",
+    "text": "Legal precedent datasets organize historical rulings for case-based reasoning and AI research.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0013",
+    "text": "Clinical decision support datasets include structured patient features and intervention outcomes.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0014",
+    "text": "Legal contract corpora provide annotated agreements for NLP-based contract analysis.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0015",
+    "text": "Drug-drug interaction datasets document known pharmacological interactions for model training.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0016",
+    "text": "Anatomical atlases provide structured reference data for organ systems, tissues, and imaging.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0017",
+    "text": "Regulatory datasets contain FDA and EMA compliance data for medical devices and drugs.",
+    "source": "FDA",
+    "url": "https://www.fda.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0018",
+    "text": "Disease ontologies provide hierarchical structured knowledge of diseases and their relationships.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0019",
+    "text": "Patent citation networks model technological dependencies and innovation flows.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0020",
+    "text": "Clinical practice guidelines provide sequential recommendations for diagnosis and treatment.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0021",
+    "text": "Legal citation graphs structure relationships between cases and precedents for retrieval tasks.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0022",
+    "text": "Medical ontology mappings connect diseases, drugs, and procedures across datasets for interoperability.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0023",
+    "text": "Clinical imaging benchmarks provide annotated datasets for evaluating medical AI models.",
+    "source": "PhysioNet",
+    "url": "https://physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0024",
+    "text": "Biomedical knowledge graphs integrate multiple sources for research in drug discovery and genomics.",
+    "source": "PubMed Central",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0025",
+    "text": "Legal briefs corpora provide structured and unstructured summaries for AI-assisted legal analysis.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0026",
+    "text": "Clinical trial outcome datasets provide structured results for meta-analysis and evidence synthesis.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0027",
+    "text": "Patent technology classifications categorize inventions for trend analysis and retrieval.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0028",
+    "text": "Healthcare procedure coding datasets standardize medical interventions for billing and research.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0029",
+    "text": "Regulatory submission datasets provide structured information on applications for drugs and devices.",
+    "source": "FDA",
+    "url": "https://www.fda.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0030",
+    "text": "Legal ontology datasets map concepts and relationships for NLP-driven case analysis.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0031",
+    "text": "Drug efficacy datasets provide structured clinical trial data on treatment outcomes.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0032",
+    "text": "Medical device datasets contain information on design, use, and clinical evaluation for AI research.",
+    "source": "FDA",
+    "url": "https://www.fda.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0033",
+    "text": "Medical coding standards datasets provide mappings between ICD, CPT, and SNOMED codes.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0034",
+    "text": "Legal taxonomies categorize statutes, regulations, and case law for AI-assisted search.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0035",
+    "text": "Clinical trial protocols provide structured experimental design information for reproducibility.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0036",
+    "text": "Healthcare cost datasets document billing and reimbursement data for economic modeling.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0037",
+    "text": "Patent full-text corpora allow extraction of claims, abstracts, and prior art citations.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0038",
+    "text": "Clinical outcome registries aggregate patient results to support comparative effectiveness research.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0039",
+    "text": "Legal opinions annotated datasets provide metadata for AI-driven reasoning and retrieval.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0040",
+    "text": "Medical imaging segmentation datasets include pixel-level annotations for supervised learning.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0041",
+    "text": "Drug-target interaction datasets link pharmaceutical compounds to biological mechanisms.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0042",
+    "text": "Clinical phenotype datasets map patient characteristics to disease categories for precision medicine.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0043",
+    "text": "Patent litigation datasets track lawsuits and oppositions for IP risk analysis.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0044",
+    "text": "Medical ontology expansion datasets connect new diseases, procedures, and drugs to existing knowledge graphs.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0045",
+    "text": "Legal case outcome prediction datasets provide structured inputs for machine learning models.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0046",
+    "text": "Medical guidelines NLP datasets encode procedural steps from textual protocols.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0047",
+    "text": "Pharmacovigilance datasets track adverse drug events for safety monitoring.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0048",
+    "text": "Patent metadata datasets capture filing dates, inventors, and classifications for trend analysis.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0049",
+    "text": "Clinical trial adverse event datasets detail reported side effects for safety research.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0050",
+    "text": "Legal regulatory corpora contain statutes, regulations, and administrative codes.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0051",
+    "text": "Hospital operational datasets include resource usage, bed occupancy, and staffing information.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0052",
+    "text": "Drug dosage datasets provide structured instructions for pharmacological studies.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0053",
+    "text": "Medical procedure coding datasets link clinical interventions to standardized codes.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0054",
+    "text": "Legal annotation corpora label case law with issues, outcomes, and precedents.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0055",
+    "text": "Medical procedure outcome datasets provide structured results for effectiveness evaluation.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0056",
+    "text": "Patent family datasets link related patents across jurisdictions for innovation tracking.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0057",
+    "text": "Clinical trial eligibility datasets include inclusion/exclusion criteria for patient selection.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0058",
+    "text": "Drug discovery assay datasets provide experimental results for compound screening.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0059",
+    "text": "Legal statute corpora organize laws by jurisdiction and topic for retrieval and AI analysis.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0060",
+    "text": "Medical sensor datasets provide physiological measurements for predictive modeling.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0061",
+    "text": "Drug chemical structure datasets provide molecular graphs for cheminformatics applications.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0062",
+    "text": "Hospital workflow datasets track patient movement and procedure timelines.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0063",
+    "text": "Clinical trial metadata datasets provide structured contextual information for reproducibility.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  },
+  {
+    "id": "ds0064",
+    "text": "Legal citation annotation datasets enrich case law with references for NLP-driven retrieval.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "Domain_Specific_Misc",
+    "dependencies": []
+  }
+]
