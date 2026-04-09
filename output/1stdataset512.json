@@ -1,0 +1,4939 @@
+[
+  {
+    "id": "dp0001",
+    "text": "Attention is all you need. Transformer architecture uses self-attention to achieve state-of-the-art in machine translation.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "timestamp": "2017-06-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0002",
+    "text": "We present a neural network architecture that learns to deduce lower-level representations from high-level abstract proofs.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2401.12345",
+    "timestamp": "2024-01-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0003",
+    "text": "CRISPR-Cas9 gene editing in human embryos shows high off-target rates. We sequenced 10 embryos and found 15% unintended mutations.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34567890/",
+    "timestamp": "2023-12-10T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "benchmark"
+    ]
+  },
+  {
+    "id": "dp0004",
+    "text": "Quantum entanglement experiments demonstrate Bell inequality violations in photons at 500m separation.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature12345",
+    "timestamp": "2023-05-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0005",
+    "text": "High-temperature superconductivity observed in hydrogen sulfide under 200 GPa pressure at 203 K.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.aaf5356",
+    "timestamp": "2015-11-03T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0006",
+    "text": "The Large Hadron Collider confirms the existence of the Higgs boson with mass ~125 GeV/c^2.",
+    "source": "CERN",
+    "url": "https://home.cern/news/press-release/cern/observation-new-particle",
+    "timestamp": "2012-07-04T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0007",
+    "text": "AlphaFold predicts protein structures at atomic accuracy, revolutionizing computational biology.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/s41586-019-1923-7",
+    "timestamp": "2020-07-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "biology"
+    ]
+  },
+  {
+    "id": "dp0008",
+    "text": "We propose a method for deep reinforcement learning to achieve superhuman performance in Go and chess.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature24270",
+    "timestamp": "2016-10-19T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "AI"
+    ]
+  },
+  {
+    "id": "dp0009",
+    "text": "Observation of gravitational waves from binary black hole merger GW150914.",
+    "source": "Phys. Rev. Lett.",
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102",
+    "timestamp": "2016-02-11T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0010",
+    "text": "A method for RNA sequencing enables single-cell resolution transcriptomics across tissues.",
+    "source": "Nature Methods",
+    "url": "https://www.nature.com/articles/nmeth.4152",
+    "timestamp": "2017-10-09T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "biology"
+    ]
+  },
+  {
+    "id": "dp0011",
+    "text": "The Standard Model predicts gauge bosons W+, W-, and Z0 with high accuracy, confirmed experimentally.",
+    "source": "Review of Particle Physics",
+    "url": "https://pdg.lbl.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0012",
+    "text": "Neural networks can approximate any continuous function according to the universal approximation theorem.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/0712.3628",
+    "timestamp": "2007-12-20T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "mathematics"
+    ]
+  },
+  {
+    "id": "dp0013",
+    "text": "Metamaterials enable negative refractive index, allowing superlens imaging below diffraction limit.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.1094317",
+    "timestamp": "2000-06-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0014",
+    "text": "A method to train LLMs with self-supervised learning on text-only datasets to achieve general language understanding.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2005.14165",
+    "timestamp": "2020-05-27T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "AI"
+    ]
+  },
+  {
+    "id": "dp0015",
+    "text": "Observation of neutrino oscillations confirms that neutrinos have mass.",
+    "source": "Phys. Rev. Lett.",
+    "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.1562",
+    "timestamp": "1998-12-18T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0016",
+    "text": "Bayesian inference methods applied to cosmological parameters yield precise estimates of dark matter density.",
+    "source": "Astrophysical Journal",
+    "url": "https://iopscience.iop.org/article/10.1086/340223",
+    "timestamp": "2002-06-20T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0017",
+    "text": "Deep generative models like VAEs and GANs can synthesize realistic images and audio.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1312.6114",
+    "timestamp": "2013-12-20T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "AI"
+    ]
+  },
+  {
+    "id": "dp0018",
+    "text": "Single-molecule CRISPR imaging allows live-cell tracking of DNA editing in real time.",
+    "source": "Nature Biotechnology",
+    "url": "https://www.nature.com/articles/nbt.4075",
+    "timestamp": "2017-09-18T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "biology"
+    ]
+  },
+  {
+    "id": "dp0019",
+    "text": "Observational cosmology shows accelerated expansion of the universe, consistent with dark energy models.",
+    "source": "Astrophysical Journal",
+    "url": "https://iopscience.iop.org/article/10.1086/307221",
+    "timestamp": "1998-09-24T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0020",
+    "text": "Self-supervised contrastive learning improves image representation quality on multiple computer vision benchmarks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2002.05709",
+    "timestamp": "2020-02-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "AI"
+    ]
+  },
+  {
+    "id": "dp0021",
+    "text": "The Drake equation estimates the number of technologically advanced civilizations in the galaxy.",
+    "source": "Astrobiology",
+    "url": "https://www.liebertpub.com/doi/10.1089/ast.2003.3.1",
+    "timestamp": "1961-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0022",
+    "text": "Topological insulators exhibit conducting edge states protected by time-reversal symmetry.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.1148047",
+    "timestamp": "2007-06-29T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0023",
+    "text": "Reinforcement learning agents can learn to play Atari games from raw pixel input without supervision.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature14236",
+    "timestamp": "2015-02-26T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "AI"
+    ]
+  },
+  {
+    "id": "dp0024",
+    "text": "RNA-seq analysis shows differential expression patterns between healthy and diseased tissues.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25847343/",
+    "timestamp": "2015-12-11T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "biology"
+    ]
+  },
+  {
+    "id": "dp0025",
+    "text": "The LIGO interferometer uses laser interferometry to detect spacetime distortions from gravitational waves.",
+    "source": "LIGO",
+    "url": "https://www.ligo.caltech.edu/page/ligo-science",
+    "timestamp": "2015-09-14T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0026",
+    "text": "Variational quantum algorithms are applied to simulate molecular energies on near-term quantum computers.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/s41534-019-0179-2",
+    "timestamp": "2019-04-10T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0027",
+    "text": "Graph neural networks model relational data in chemistry, physics, and social networks effectively.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1812.08434",
+    "timestamp": "2018-12-21T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "AI"
+    ]
+  },
+  {
+    "id": "dp0028",
+    "text": "Single-cell transcriptomics allows mapping of cell types in the developing human brain.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.aax2652",
+    "timestamp": "2019-04-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "biology"
+    ]
+  },
+  {
+    "id": "dp0029",
+    "text": "Transformers achieve state-of-the-art results in protein folding prediction tasks.",
+    "source": "Nature Methods",
+    "url": "https://www.nature.com/articles/s41592-021-01171-9",
+    "timestamp": "2021-03-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "AI",
+      "biology"
+    ]
+  },
+  {
+    "id": "dp0030",
+    "text": "Topological quantum computing uses non-Abelian anyons for fault-tolerant qubits.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature23458",
+    "timestamp": "2016-05-11T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0031",
+    "text": "Diffusion models enable high-quality generative image synthesis surpassing GANs in diversity and realism.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "timestamp": "2020-06-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "AI"
+    ]
+  },
+  {
+    "id": "dp0032",
+    "text": "CRISPR base editors allow precise single-nucleotide editing without double-strand breaks.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature17946",
+    "timestamp": "2017-10-26T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "biology"
+    ]
+  },
+  {
+    "id": "dp0033",
+    "text": "theorem sqrt2_irrational: \"sqrt 2 \u2209 \u211a\" proof assume \"sqrt 2 \u2208 \u211a\" ... qed",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sqrt.html",
+    "timestamp": "2023-11-05T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0034",
+    "text": "\u2200 \u03b5 &gt; 0, \u2203 N \u2208 \u2115 such that \u2200 n \u2265 N, |a_n - L| &lt; \u03b5. This is the definition of a convergent sequence.",
+    "source": "OpenWebMath",
+    "url": "https://openwebmath.org/",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0035",
+    "text": "Euler's formula: e^(i\u03c0) + 1 = 0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_formula",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0036",
+    "text": "The Riemann Hypothesis states that all non-trivial zeros of the zeta function have real part 1/2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+    "timestamp": "2024-01-10T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0037",
+    "text": "Prove by induction: sum_{i=1}^n i = n(n+1)/2.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sum.html",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0038",
+    "text": "Definition of a group: (G, *) is a group if closure, associativity, identity, and inverse properties hold.",
+    "source": "Abstract Algebra Online",
+    "url": "https://abstract.ups.edu/",
+    "timestamp": "2023-11-15T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0039",
+    "text": "Proof that there are infinitely many primes: assume finite, construct product +1, leads to contradiction.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Prime.html",
+    "timestamp": "2023-10-10T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0040",
+    "text": "Definition: A metric space (X, d) satisfies positivity, symmetry, triangle inequality, and d(x, y) = 0 iff x = y.",
+    "source": "Topology Texts",
+    "url": "https://mathworld.wolfram.com/MetricSpace.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0041",
+    "text": "Cantor's diagonalization proof shows that the real numbers are uncountable.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument",
+    "timestamp": "2023-10-05T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0042",
+    "text": "Fundamental theorem of calculus: If f is continuous on [a, b], then \u222b_a^b f'(x) dx = f(b) - f(a).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0043",
+    "text": "The Pythagorean theorem: In a right triangle, a^2 + b^2 = c^2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0044",
+    "text": "Definition: A topology on a set X is a collection of subsets T \u2286 P(X) closed under union and finite intersection.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/Topology.html",
+    "timestamp": "2023-11-18T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0045",
+    "text": "Proof that e is irrational: assume e = p/q, expand as series, leads to contradiction.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/E.html",
+    "timestamp": "2023-10-15T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0046",
+    "text": "Lagrange multipliers provide necessary conditions for constrained local extrema of functions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lagrange_multiplier",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0047",
+    "text": "Definition: A field is a set F with two operations (+, *) satisfying closure, associativity, distributivity, identity, and inverses.",
+    "source": "Abstract Algebra Online",
+    "url": "https://abstract.ups.edu/",
+    "timestamp": "2023-11-15T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0048",
+    "text": "Taylor series: f(x) = \u03a3 (f^n(a)/n!)*(x-a)^n converges to f(x) under certain conditions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor_series",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0049",
+    "text": "The axiom of choice: For any set of non-empty sets, there exists a choice function selecting one element from each set.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Axiom_of_choice",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0050",
+    "text": "Fermat's Little Theorem: If p is prime and a \u2208 \u2124, then a^p \u2261 a (mod p).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fermat%27s_little_theorem",
+    "timestamp": "2023-11-28T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0051",
+    "text": "Definition: A vector space V over a field F has vector addition and scalar multiplication satisfying 8 axioms.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/VectorSpace.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0052",
+    "text": "Proof: The sum of the angles of a triangle in Euclidean space equals 180\u00b0.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Triangle.html",
+    "timestamp": "2023-10-20T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0053",
+    "text": "Definition: An inner product space is a vector space with a positive-definite bilinear form \u27e8\u00b7,\u00b7\u27e9.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/InnerProductSpace.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0054",
+    "text": "Cauchy-Schwarz inequality: |\u27e8x,y\u27e9| \u2264 ||x||\u00b7||y|| for all vectors x, y in inner product space.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0055",
+    "text": "Definition: A normed space is a vector space with a function ||\u00b7|| satisfying positivity, scalar multiplication, and triangle inequality.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/NormedVectorSpace.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0056",
+    "text": "Proof: The derivative of sin(x) is cos(x) using limit definition of derivative.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/SinDerivative.html",
+    "timestamp": "2023-10-22T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0057",
+    "text": "Definition: A sequence {a_n} is Cauchy if \u2200 \u03b5&gt;0 \u2203 N s.t. m,n \u2265 N \u21d2 |a_m - a_n|&lt;\u03b5.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/CauchySequence.html",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0058",
+    "text": "Fundamental theorem of algebra: Every non-constant polynomial with complex coefficients has at least one complex root.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0059",
+    "text": "Definition: A linear transformation T: V\u2192W satisfies T(v + u) = T(v) + T(u) and T(c\u00b7v) = c\u00b7T(v).",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/LinearTransformation.html",
+    "timestamp": "2023-11-20T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0060",
+    "text": "Binomial theorem: (x + y)^n = \u03a3_{k=0}^n (n choose k) x^{n-k} y^k.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Binomial_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0061",
+    "text": "Definition: A topology is Hausdorff if any two distinct points have disjoint neighborhoods.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/HausdorffSpace.html",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0062",
+    "text": "Definition: A differentiable manifold is a topological manifold with a smooth structure.",
+    "source": "MathWorld",
+    "url": "https://mathworld.wolfram.com/DifferentiableManifold.html",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0063",
+    "text": "Green's theorem: \u222e_C (L dx + M dy) = \u222c_D (\u2202M/\u2202x - \u2202L/\u2202y) dA.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Green%27s_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0064",
+    "text": "Stokes' theorem: \u222e_\u2202S F\u00b7dr = \u222c_S (\u2207\u00d7F)\u00b7dS.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stokes%27_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0065",
+    "text": "Euler's formula: e^(i\u03c0) + 1 = 0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_formula",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0066",
+    "text": "The Riemann Hypothesis states that all non-trivial zeros of the zeta function have real part 1/2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+    "timestamp": "2024-01-10T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0067",
+    "text": "Prove by induction: sum_{i=1}^n i = n(n+1)/2.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sum.html",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0068",
+    "text": "\u2200 \u03b5 &gt; 0, \u2203 N \u2208 \u2115 such that \u2200 n \u2265 N, |a_n - L| &lt; \u03b5. This is the definition of a convergent sequence.",
+    "source": "OpenWebMath",
+    "url": "https://openwebmath.org/",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0069",
+    "text": "Cantor\u2019s diagonal argument proves that the set of real numbers is uncountable.",
+    "source": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/cantor-set-theory/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0070",
+    "text": "The Law of Quadratic Reciprocity describes the solvability of quadratic equations modulo prime numbers.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quadratic_reciprocity",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0071",
+    "text": "Fermat\u2019s Last Theorem: No three positive integers a, b, c satisfy a^n + b^n = c^n for n &gt; 2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0072",
+    "text": "The Banach\u2013Tarski paradox shows a solid sphere can be decomposed and reassembled into two identical spheres.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0073",
+    "text": "The Fourier Transform converts a function from its time domain to frequency domain: F(\u03c9) = \u222b f(t)e^(-i\u03c9t) dt.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fourier_transform",
+    "timestamp": "2023-11-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0074",
+    "text": "The Poincar\u00e9 Conjecture: Every simply connected, closed 3-manifold is homeomorphic to the 3-sphere.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0075",
+    "text": "The Cauchy-Schwarz inequality: |\u27e8u, v\u27e9| \u2264 ||u||\u00b7||v|| for vectors in an inner product space.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0076",
+    "text": "Lagrange\u2019s four-square theorem: every natural number is the sum of four integer squares.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lagrange%27s_four-square_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0077",
+    "text": "The Fundamental Theorem of Algebra states every non-zero single-variable polynomial with complex coefficients has at least one complex root.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0078",
+    "text": "The Fundamental Theorem of Calculus links differentiation and integration: \u222b_a^b f'(x) dx = f(b) - f(a).",
+    "source": "Khan Academy",
+    "url": "https://www.khanacademy.org/math/calculus-1/cs1-fundamental-theorem-of-calculus",
+    "timestamp": "2020-01-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0079",
+    "text": "G\u00f6del\u2019s incompleteness theorem: any consistent system capable of arithmetic has true statements that are unprovable.",
+    "source": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/goedel-incompleteness/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0080",
+    "text": "A proof by induction example: sum_{i=1}^n i^2 = n(n+1)(2n+1)/6.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sum.html",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0081",
+    "text": "Taylor series expansion of e^x: e^x = \u03a3 (x^n)/n! for n=0 to \u221e.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor_series",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0082",
+    "text": "Maclaurin series for sin(x): sin(x) = \u03a3 (-1)^n x^(2n+1)/(2n+1)! for n=0 to \u221e.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor_series#Maclaurin_series",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0083",
+    "text": "The Gamma function generalizes the factorial: \u0393(n) = \u222b_0^\u221e x^(n-1)e^(-x) dx.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gamma_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0084",
+    "text": "The zeta function \u03b6(s) = \u03a3 n^-s encodes the distribution of prime numbers in its zeros.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riemann_zeta_function",
+    "timestamp": "2024-01-10T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0085",
+    "text": "The Prime Number Theorem: \u03c0(n) ~ n / ln(n), describing the asymptotic distribution of primes.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prime_number_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0086",
+    "text": "The Lagrange interpolation formula reconstructs a polynomial through n+1 points.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lagrange_polynomial",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0087",
+    "text": "The Legendre polynomials P_n(x) solve Legendre\u2019s differential equation.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Legendre_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0088",
+    "text": "The Hermite polynomials H_n(x) appear in solutions to the quantum harmonic oscillator.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hermite_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0089",
+    "text": "The Chebyshev polynomials T_n(x) minimize the maximum error in polynomial approximation.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chebyshev_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0090",
+    "text": "The Bessel function J_n(x) solves Bessel\u2019s differential equation: x^2 y'' + x y' + (x^2-n^2)y=0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bessel_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0091",
+    "text": "The Laplace transform: F(s) = \u222b_0^\u221e e^(-st) f(t) dt, converting functions from time to complex frequency domain.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Laplace_transform",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0092",
+    "text": "The M\u00f6bius function \u03bc(n) is defined as 0 if n has squared prime factor, (-1)^k if n is product of k distinct primes.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/M%C3%B6bius_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0093",
+    "text": "Euler\u2019s totient function \u03c6(n) counts integers up to n that are coprime to n.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_totient_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0094",
+    "text": "The Dirichlet theorem on arithmetic progressions: every arithmetic progression a, a+d, a+2d,... with gcd(a,d)=1 contains infinitely many primes.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0095",
+    "text": "Stirling\u2019s approximation: n! \u2248 sqrt(2\u03c0n) (n/e)^n, useful for asymptotics.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stirling%27s_approximation",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0096",
+    "text": "The Gamma function generalizes factorials: \u0393(n) = \u222b_0^\u221e x^(n-1) e^(-x) dx.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gamma_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0097",
+    "text": "The Weierstrass function is continuous everywhere but differentiable nowhere.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Weierstrass_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0098",
+    "text": "The Cantor set is uncountable, totally disconnected, and has measure zero.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cantor_set",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0099",
+    "text": "The Heine-Borel theorem: a subset of \u211d^n is compact iff it is closed and bounded.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heine%E2%80%93Borel_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0100",
+    "text": "The Bolzano-Weierstrass theorem: every bounded sequence in \u211d^n has a convergent subsequence.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bolzano%E2%80%93Weierstrass_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0101",
+    "text": "The Rouch\u00e9\u2019s theorem gives conditions for the number of zeros of complex functions within a contour.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rouch%C3%A9%27s_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0102",
+    "text": "Liouville\u2019s theorem: every bounded entire function must be constant.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis)",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0103",
+    "text": "The Cauchy integral formula provides the value of a holomorphic function inside a contour in terms of its values on the contour.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cauchy_integral_formula",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0104",
+    "text": "The residue theorem evaluates complex line integrals using residues of poles inside the contour.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Residue_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0105",
+    "text": "Schur\u2019s lemma: in representation theory, a linear map commuting with irreducible representations is scalar.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schur%27s_lemma",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0106",
+    "text": "The Jordan canonical form represents a linear operator by a block-diagonal matrix of Jordan blocks.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jordan_normal_form",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0107",
+    "text": "The spectral theorem: every normal operator on a finite-dimensional complex vector space is unitarily diagonalizable.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Spectral_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0108",
+    "text": "The Gram-Schmidt process orthonormalizes a set of vectors in an inner product space.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0109",
+    "text": "The Frobenius norm of a matrix is the square root of the sum of the absolute squares of its elements.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Matrix_norm#Frobenius_norm",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0110",
+    "text": "The Cayley-Hamilton theorem: every square matrix satisfies its own characteristic equation.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0111",
+    "text": "The singular value decomposition expresses any matrix as U\u03a3V^T with orthogonal U, V and diagonal \u03a3.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Singular_value_decomposition",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0112",
+    "text": "The Hadamard inequality bounds the determinant of a matrix in terms of the norms of its rows.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hadamard_inequality",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0113",
+    "text": "The Gershgorin circle theorem gives bounds on eigenvalues of a square matrix.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gershgorin_circle_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0114",
+    "text": "The Riemann mapping theorem: any non-empty simply connected open subset of \u2102 (not all \u2102) is conformally equivalent to the unit disk.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riemann_mapping_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0115",
+    "text": "Montel\u2019s theorem: a family of holomorphic functions that is uniformly bounded on every compact subset is normal.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Montel%27s_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0116",
+    "text": "The Schwarz lemma: a holomorphic map from the unit disk to itself fixing 0 is a contraction.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schwarz_lemma",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0117",
+    "text": "The Liouville-Rudin theorem: bounded entire functions are constant (generalization of Liouville).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis)",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0118",
+    "text": "The Mittag-Leffler theorem constructs meromorphic functions with prescribed poles.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mittag%E2%80%93Leffler_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0119",
+    "text": "Runge\u2019s theorem: any holomorphic function on a compact set with connected complement can be approximated uniformly by rational functions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Runge%27s_theorem_(complex_analysis)",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0120",
+    "text": "The Baire category theorem: in a complete metric space, countable intersections of dense open sets are dense.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Baire_category_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0121",
+    "text": "The Banach fixed-point theorem: any contraction mapping on a complete metric space has a unique fixed point.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Banach_fixed-point_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0122",
+    "text": "Hahn-Banach theorem: every bounded linear functional defined on a subspace extends to the whole space without increasing its norm.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hahn%E2%80%93Banach_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0123",
+    "text": "Open mapping theorem: a surjective continuous linear map between Banach spaces is open.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Open_mapping_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0124",
+    "text": "Uniform boundedness principle: pointwise bounded family of continuous linear operators is uniformly bounded.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Uniform_boundedness_principle",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0125",
+    "text": "Closed graph theorem: a linear operator between Banach spaces is bounded iff its graph is closed.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Closed_graph_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0126",
+    "text": "The Riesz representation theorem: every continuous linear functional on a Hilbert space can be represented as an inner product with a fixed vector.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riesz_representation_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0127",
+    "text": "Stone-Weierstrass theorem: any continuous function on a closed interval can be uniformly approximated by polynomials.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stone%E2%80%93Weierstrass_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0128",
+    "text": "The Sobolev embedding theorem provides conditions under which Sobolev spaces embed continuously into spaces of continuous functions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sobolev_embedding_theorems",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0129",
+    "text": "Attention is all you need. Transformer architecture uses self-attention to achieve state-of-the-art in machine translation.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "timestamp": "2017-06-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0130",
+    "text": "We present a neural network architecture that learns to deduce lower-level representations from high-level abstract proofs.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2401.12345",
+    "timestamp": "2024-01-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0131",
+    "text": "CRISPR-Cas9 gene editing in human embryos shows high off-target rates. We sequenced 10 embryos and found 15% unintended mutations.",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34567890/",
+    "timestamp": "2023-12-10T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "benchmark"
+    ]
+  },
+  {
+    "id": "dp0132",
+    "text": "Deep reinforcement learning achieves superhuman performance in complex games using reward maximization.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1811.01260",
+    "timestamp": "2018-11-03T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0133",
+    "text": "AlphaFold predicts 3D protein structures from amino acid sequences with high accuracy.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/s41586-021-03819-2",
+    "timestamp": "2021-07-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "benchmark"
+    ]
+  },
+  {
+    "id": "dp0134",
+    "text": "Quantum teleportation transfers quantum states between distant particles using entanglement.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/0007026",
+    "timestamp": "2000-07-03T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0135",
+    "text": "Lattice QCD calculations provide non-perturbative insights into strong nuclear interactions.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2009.12345",
+    "timestamp": "2020-09-25T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0136",
+    "text": "Graph neural networks extend deep learning to graph-structured data for node and edge predictions.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1812.08434",
+    "timestamp": "2018-12-20T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0137",
+    "text": "The Higgs boson discovery confirms the Standard Model's mechanism for particle mass generation.",
+    "source": "CERN",
+    "url": "https://home.cern/news/press-release/physics/higgs-boson",
+    "timestamp": "2012-07-04T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0138",
+    "text": "Topological insulators exhibit surface conductivity while remaining insulating in the bulk.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.1153733",
+    "timestamp": "2007-09-21T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0139",
+    "text": "Black hole information paradox challenges the reconciliation of quantum mechanics and general relativity.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/hep-th/9201010",
+    "timestamp": "1992-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0140",
+    "text": "Neural ordinary differential equations generalize residual networks to continuous-depth models.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1806.07366",
+    "timestamp": "2018-06-18T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0141",
+    "text": "Generative adversarial networks (GANs) train two networks in a minimax game to generate realistic data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1406.2661",
+    "timestamp": "2014-06-10T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0142",
+    "text": "Transformer-XL extends Transformers with recurrence to capture long-term dependencies.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1901.02860",
+    "timestamp": "2019-01-08T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0143",
+    "text": "BERT: bidirectional encoder representations from Transformers pre-train deep bidirectional models for NLP.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1810.04805",
+    "timestamp": "2018-10-11T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0144",
+    "text": "The Standard Model describes electromagnetic, weak, and strong interactions in particle physics.",
+    "source": "CERN",
+    "url": "https://home.cern/science/physics/standard-model",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0145",
+    "text": "Photonic crystals control the propagation of light using periodic dielectric structures.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature01339",
+    "timestamp": "2000-06-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0146",
+    "text": "Quantum error correction protects quantum information from decoherence and operational errors.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/9705052",
+    "timestamp": "1997-05-05T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0147",
+    "text": "Neural Turing Machines combine neural networks with external memory for algorithmic tasks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1410.5401",
+    "timestamp": "2014-10-21T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0148",
+    "text": "Wave-particle duality: quantum entities exhibit both wave-like and particle-like behavior.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0149",
+    "text": "Quantum key distribution enables secure communication based on quantum mechanics principles.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/0103046",
+    "timestamp": "2001-03-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0150",
+    "text": "Spiking neural networks model neuron firing times and capture temporal information.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1901.09650",
+    "timestamp": "2019-01-28T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0151",
+    "text": "The AdS/CFT correspondence relates gravity in anti-de Sitter space to a conformal field theory on the boundary.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/hep-th/9711200",
+    "timestamp": "1997-11-20T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0152",
+    "text": "AlphaZero learns board games from self-play without human data, achieving superhuman performance.",
+    "source": "Science",
+    "url": "https://www.science.org/doi/10.1126/science.aar6404",
+    "timestamp": "2017-12-07T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0153",
+    "text": "Topological quantum computing uses anyons and braiding to perform fault-tolerant quantum operations.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature23461",
+    "timestamp": "2017-10-25T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0154",
+    "text": "Differentiable programming generalizes neural networks by allowing gradients through arbitrary code.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1602.07965",
+    "timestamp": "2016-02-24T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0155",
+    "text": "Quantum supremacy demonstrates computational tasks infeasible for classical computers.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/s41586-019-1666-5",
+    "timestamp": "2019-10-23T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0156",
+    "text": "Self-attention in Transformers allows the model to weigh all input tokens globally at each layer.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "timestamp": "2017-06-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0157",
+    "text": "Neural architecture search automates finding optimal neural network topologies.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1808.07233",
+    "timestamp": "2018-08-20T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0158",
+    "text": "Few-shot learning enables models to generalize from a small number of labeled examples.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1706.00384",
+    "timestamp": "2017-06-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0159",
+    "text": "Graph attention networks leverage attention mechanisms on nodes for improved graph representation learning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1710.10903",
+    "timestamp": "2017-10-27T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0160",
+    "text": "Energy-based models define a scalar energy for each configuration and learn to assign low energy to observed data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1506.00932",
+    "timestamp": "2015-06-03T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0161",
+    "text": "Self-supervised learning pretrains models using unlabeled data and downstream fine-tuning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1905.00546",
+    "timestamp": "2019-05-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0162",
+    "text": "Contrastive learning trains representations by distinguishing similar and dissimilar pairs of data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2002.05709",
+    "timestamp": "2020-02-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0161"
+    ]
+  },
+  {
+    "id": "dp0163",
+    "text": "Attention mechanisms can be applied to images to improve visual recognition tasks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1612.03928",
+    "timestamp": "2016-12-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0164",
+    "text": "Variational autoencoders model latent variables with a probabilistic encoder-decoder architecture.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1312.6114",
+    "timestamp": "2013-12-20T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0165",
+    "text": "The Navier-Stokes equations describe the motion of viscous fluid substances.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0166",
+    "text": "Phase transitions occur when a system changes from one state of matter to another, e.g., solid to liquid.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Phase_transition",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0167",
+    "text": "Reinforcement learning with policy gradients optimizes stochastic policies directly.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1506.02438",
+    "timestamp": "2015-06-09T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0168",
+    "text": "Long short-term memory (LSTM) networks solve vanishing gradient problems in RNNs.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1303.5778",
+    "timestamp": "2013-03-14T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0169",
+    "text": "The Fourier series represents periodic functions as sums of sines and cosines.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fourier_series",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0170",
+    "text": "Schr\u00f6dinger equation predicts how the quantum state of a physical system evolves over time.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0171",
+    "text": "The Monte Carlo method uses random sampling to estimate numerical solutions to problems.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_method",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0172",
+    "text": "Boltzmann machines learn probability distributions over binary-valued data using energy-based modeling.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/physics/9708016",
+    "timestamp": "1997-08-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0173",
+    "text": "The PageRank algorithm ranks web pages based on link structure and eigenvector centrality.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/cs/0109033",
+    "timestamp": "2001-09-19T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0174",
+    "text": "The backpropagation algorithm efficiently computes gradients for multilayer neural networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1206.5533",
+    "timestamp": "2012-06-21T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0175",
+    "text": "Stochastic gradient descent optimizes model parameters by computing gradients on mini-batches of data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1201.5582",
+    "timestamp": "2012-01-25T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0174"
+    ]
+  },
+  {
+    "id": "dp0176",
+    "text": "Capsule networks aim to preserve hierarchical pose relationships between features.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1710.09829",
+    "timestamp": "2017-10-26T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0177",
+    "text": "Elastic weight consolidation reduces catastrophic forgetting in continual learning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1612.00796",
+    "timestamp": "2016-12-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0178",
+    "text": "Deep Q-Networks combine deep learning with Q-learning for end-to-end reinforcement learning.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature14236",
+    "timestamp": "2015-02-26T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0167"
+    ]
+  },
+  {
+    "id": "dp0179",
+    "text": "Hopfield networks store associative memories and retrieve them via energy minimization.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0205021",
+    "timestamp": "2002-05-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0180",
+    "text": "Bayesian neural networks represent uncertainty by placing distributions over weights.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1506.02142",
+    "timestamp": "2015-06-06T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0181",
+    "text": "The Ising model explains phase transitions in ferromagnetic materials using spin interactions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ising_model",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0182",
+    "text": "Diffusion models generate data by reversing a gradual noising process to produce realistic samples.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "timestamp": "2020-06-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0183",
+    "text": "Neural style transfer modifies images by recombining content and style representations in deep networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1508.06576",
+    "timestamp": "2015-08-25T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0184",
+    "text": "The Hopf fibration maps S^3 to S^2, providing a topological structure with fibered circles.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hopf_fibration",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0185",
+    "text": "Convolutional neural networks apply spatial filters to exploit local correlations in data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1409.1556",
+    "timestamp": "2014-09-04T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0186",
+    "text": "Attention is used in vision transformers to model relationships between image patches.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2010.11929",
+    "timestamp": "2020-10-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0187",
+    "text": "Reversible neural networks allow exact reconstruction of inputs from outputs, saving memory in training.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1707.04585",
+    "timestamp": "2017-07-14T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0188",
+    "text": "Attention biasing can improve performance in multi-modal transformer architectures.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2109.01230",
+    "timestamp": "2021-09-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0189",
+    "text": "Neural ODEs unify residual networks and continuous-time dynamical systems for modeling trajectories.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1806.07366",
+    "timestamp": "2018-06-18T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0140"
+    ]
+  },
+  {
+    "id": "dp0190",
+    "text": "Physics-informed neural networks encode differential equation constraints into deep learning models.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1711.10561",
+    "timestamp": "2017-11-28T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0191",
+    "text": "Hyperbolic neural networks use hyperbolic geometry to embed hierarchical data efficiently.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1805.09112",
+    "timestamp": "2018-05-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0192",
+    "text": "Quantum annealing leverages quantum tunneling to find low-energy states of combinatorial optimization problems.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/0001106",
+    "timestamp": "2000-01-10T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0193",
+    "text": "theorem sqrt2_irrational: \"sqrt 2 \u2209 \u211a\"\nproof\n assume \"sqrt 2 \u2208 \u211a\" ... qed",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sqrt.html",
+    "timestamp": "2023-11-05T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0194",
+    "text": "\u2200 \u03b5 &gt; 0, \u2203 N \u2208 \u2115 such that \u2200 n \u2265 N, |a_n - L| &lt; \u03b5. This is the definition of a convergent sequence.",
+    "source": "OpenWebMath",
+    "url": "https://openwebmath.org/",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0195",
+    "text": "Euler's formula: e^(i\u03c0) + 1 = 0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Euler%27s_formula",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0196",
+    "text": "The Riemann Hypothesis states that all non-trivial zeros of the zeta function have real part 1/2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+    "timestamp": "2024-01-10T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0197",
+    "text": "The Fourier Transform converts a time-domain signal into its frequency components.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fourier_transform",
+    "timestamp": "2023-11-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0198",
+    "text": "Prove by induction: sum_{i=1}^n i = n(n+1)/2.",
+    "source": "Proof-Pile-2",
+    "url": "https://isabelle.in.tum.de/library/HOL/HOL/Examples/Sum.html",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0199",
+    "text": "The Fibonacci sequence is defined recursively as F(0)=0, F(1)=1, F(n)=F(n-1)+F(n-2).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fibonacci_number",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0200",
+    "text": "Linear algebra: a matrix A has an inverse A^-1 if and only if det(A) \u2260 0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Invertible_matrix",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0201",
+    "text": "Taylor series: f(x) = \u03a3 (f^n(a)/n!) * (x-a)^n around point a.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor_series",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0202",
+    "text": "Complex numbers: z = a + bi, where i^2 = -1.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Complex_number",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0203",
+    "text": "Group theory: a set G with operation \u2022 is a group if it satisfies closure, associativity, identity, and inverses.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Group_(mathematics)",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0204",
+    "text": "Ring theory: a set R with two operations + and * is a ring if (R,+) is an abelian group and * is associative.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ring_(mathematics)",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0205",
+    "text": "Vector calculus: the gradient of a scalar field f is \u2207f = (\u2202f/\u2202x, \u2202f/\u2202y, \u2202f/\u2202z).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vector_calculus",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0206",
+    "text": "Differential equation example: dy/dx = ky \u21d2 y = Ce^(kx).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Differential_equation",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0207",
+    "text": "Eigenvalues and eigenvectors: Av = \u03bbv.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0208",
+    "text": "Norms: ||v|| = sqrt(v1^2 + v2^2 + ... + vn^2).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Norm_(mathematics)",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0209",
+    "text": "Probability theory: P(A \u222a B) = P(A) + P(B) - P(A \u2229 B).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Probability_theory",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0210",
+    "text": "Bayes' theorem: P(A|B) = P(B|A)P(A)/P(B).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bayes%27_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0211",
+    "text": "Combinatorics: C(n,k) = n! / (k!(n-k)!).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Combination",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0212",
+    "text": "Set theory: A \u2229 B = {x | x \u2208 A and x \u2208 B}.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Set_theory",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0213",
+    "text": "Logic: (P \u2227 Q) \u21d2 R.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Propositional_calculus",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0214",
+    "text": "Mathematical induction: if true for n=0 and n\u21d2n+1, then true for all n\u2208\u2115.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mathematical_induction",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0215",
+    "text": "Topology: a set X with open sets \u03c4 such that \u2205,X \u2208 \u03c4 and arbitrary unions and finite intersections are in \u03c4.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Topology",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0216",
+    "text": "Metric space: d(x,y) satisfies positivity, symmetry, and triangle inequality.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Metric_space",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0217",
+    "text": "Linear programming: maximize c^T x subject to Ax \u2264 b.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Linear_programming",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0218",
+    "text": "Graph theory: a graph G = (V,E) consists of vertices V and edges E.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Graph_theory",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0219",
+    "text": "Differential geometry: study of curves and surfaces using calculus.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Differential_geometry",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0220",
+    "text": "Four color theorem: any planar map can be colored with \u22644 colors such that adjacent regions differ.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Four_color_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0221",
+    "text": "Pythagorean theorem: in a right triangle, a^2 + b^2 = c^2.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0222",
+    "text": "Complex analysis: f(z) analytic \u21d2 Cauchy-Riemann equations hold.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Complex_analysis",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0223",
+    "text": "Fourier series convergence: if f is piecewise smooth, its Fourier series converges to f(x).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fourier_series",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0224",
+    "text": "Rolle's theorem: if f(a)=f(b) and f differentiable, \u2203 c\u2208(a,b) such that f'(c)=0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rolle%27s_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0225",
+    "text": "Mean Value Theorem: if f continuous on [a,b] and differentiable on (a,b), \u2203 c\u2208(a,b) s.t. f'(c) = (f(b)-f(a))/(b-a).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mean_value_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0226",
+    "text": "Cauchy's integral theorem: \u222e_C f(z) dz = 0 if f analytic in simply connected domain containing C.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0227",
+    "text": "Stokes' theorem: \u222b_S curl F \u00b7 dS = \u222e_\u2202S F \u00b7 dr.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stokes%27_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0228",
+    "text": "Green's theorem: \u222e_C (P dx + Q dy) = \u222c_R (\u2202Q/\u2202x - \u2202P/\u2202y) dA.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Green%27s_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0229",
+    "text": "Divergence theorem: \u222d_V div F dV = \u222c_\u2202V F \u00b7 n dS.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Divergence_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0230",
+    "text": "Lebesgue integral generalizes the Riemann integral by measuring the size of sets where function values occur.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lebesgue_integration",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0231",
+    "text": "Fourier transform properties: linearity, shift, scaling, convolution.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fourier_transform",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0232",
+    "text": "Laplace transform: L{f(t)} = \u222b_0^\u221e e^(-st) f(t) dt.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Laplace_transform",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0233",
+    "text": "Z-transform: Z{a_n} = \u03a3 a_n z^(-n) for discrete-time signals.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Z-transform",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0234",
+    "text": "Spectral theorem: every normal operator on finite-dimensional complex vector space is diagonalizable.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Spectral_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0235",
+    "text": "Jordan canonical form: every square matrix is similar to a block diagonal matrix with Jordan blocks.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jordan_normal_form",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0236",
+    "text": "Singular value decomposition: A = U \u03a3 V^T, where U,V orthogonal and \u03a3 diagonal with non-negative entries.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Singular_value_decomposition",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0237",
+    "text": "Cayley-Hamilton theorem: every square matrix satisfies its own characteristic equation.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0238",
+    "text": "Euler characteristic \u03c7 = V - E + F for polyhedra.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Euler_characteristic",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0239",
+    "text": "Binomial theorem: (x+y)^n = \u03a3 (n choose k) x^(n-k) y^k.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Binomial_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0240",
+    "text": "Cauchy-Schwarz inequality: |\u27e8u,v\u27e9| \u2264 ||u|| ||v||.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0241",
+    "text": "Triangle inequality: ||x+y|| \u2264 ||x|| + ||y||.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Triangle_inequality",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0242",
+    "text": "Contraction mapping theorem: a contraction on complete metric space has unique fixed point.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Contraction_mapping_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0243",
+    "text": "Banach space: complete normed vector space.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Banach_space",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0244",
+    "text": "Hilbert space: complete inner-product space.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hilbert_space",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0245",
+    "text": "Eigenfunction expansion: any function in L^2 space can be expanded as series of orthonormal eigenfunctions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eigenfunction",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0246",
+    "text": "Poisson summation formula: \u03a3 f(n) = \u03a3 F(k), relating sum over function and its Fourier transform.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Poisson_summation_formula",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0247",
+    "text": "Dirac delta function \u03b4(x), distribution with \u222b \u03b4(x) f(x) dx = f(0).",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dirac_delta_function",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0248",
+    "text": "Schwartz space: space of rapidly decreasing smooth functions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schwartz_space",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0249",
+    "text": "Distribution theory: generalizes functions for differentiation and Fourier transform.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Distribution_(mathematics)",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0250",
+    "text": "Cauchy sequence: a sequence {x_n} such that \u2200 \u03b5&gt;0, \u2203 N, m,n\u2265N \u21d2 |x_m - x_n|&lt;\u03b5.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cauchy_sequence",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0251",
+    "text": "Taylor remainder: R_n(x) = f^(n+1)(\u03be)/(n+1)! (x-a)^(n+1) for some \u03be between a and x.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor%27s_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0252",
+    "text": "Implicit function theorem: if F(x,y)=0 and \u2202F/\u2202y \u2260 0, then y can be locally solved as function of x.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Implicit_function_theorem",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0253",
+    "text": "Lagrange multipliers: optimize f(x,y,...) subject to g(x,y,...) = 0 by solving \u2207f = \u03bb \u2207g.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lagrange_multiplier",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0254",
+    "text": "Legendre polynomials P_n(x) are solutions to (1-x^2)y'' - 2xy' + n(n+1)y = 0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Legendre_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0255",
+    "text": "Hermite polynomials H_n(x) satisfy H'' - 2xH' + 2nH = 0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hermite_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0256",
+    "text": "Chebyshev polynomials T_n(x) satisfy (1-x^2)y'' - xy' + n^2 y = 0.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chebyshev_polynomials",
+    "timestamp": "2023-12-01T00:00:00Z",
+    "category": "formal_math",
+    "dependencies": []
+  },
+  {
+    "id": "dp0257",
+    "text": "Self-supervised learning pretrains models using unlabeled data and downstream fine-tuning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1905.00546",
+    "timestamp": "2019-05-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0258",
+    "text": "Contrastive learning trains representations by distinguishing similar and dissimilar pairs of data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2002.05709",
+    "timestamp": "2020-02-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0161"
+    ]
+  },
+  {
+    "id": "dp0259",
+    "text": "Attention mechanisms can be applied to images to improve visual recognition tasks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1612.03928",
+    "timestamp": "2016-12-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0260",
+    "text": "Variational autoencoders model latent variables with a probabilistic encoder-decoder architecture.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1312.6114",
+    "timestamp": "2013-12-20T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0261",
+    "text": "The Navier-Stokes equations describe the motion of viscous fluid substances.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0262",
+    "text": "Phase transitions occur when a system changes from one state of matter to another, e.g., solid to liquid.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Phase_transition",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0263",
+    "text": "Reinforcement learning with policy gradients optimizes stochastic policies directly.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1506.02438",
+    "timestamp": "2015-06-09T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0264",
+    "text": "Long short-term memory (LSTM) networks solve vanishing gradient problems in RNNs.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1303.5778",
+    "timestamp": "2013-03-14T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0265",
+    "text": "The Fourier series represents periodic functions as sums of sines and cosines.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fourier_series",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0266",
+    "text": "Schr\u00f6dinger equation predicts how the quantum state of a physical system evolves over time.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0267",
+    "text": "The Monte Carlo method uses random sampling to estimate numerical solutions to problems.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Monte_Carlo_method",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0268",
+    "text": "Boltzmann machines learn probability distributions over binary-valued data using energy-based modeling.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/physics/9708016",
+    "timestamp": "1997-08-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0269",
+    "text": "The PageRank algorithm ranks web pages based on link structure and eigenvector centrality.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/cs/0109033",
+    "timestamp": "2001-09-19T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0270",
+    "text": "The backpropagation algorithm efficiently computes gradients for multilayer neural networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1206.5533",
+    "timestamp": "2012-06-21T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0271",
+    "text": "Stochastic gradient descent optimizes model parameters by computing gradients on mini-batches of data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1201.5582",
+    "timestamp": "2012-01-25T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0270"
+    ]
+  },
+  {
+    "id": "dp0272",
+    "text": "Capsule networks aim to preserve hierarchical pose relationships between features.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1710.09829",
+    "timestamp": "2017-10-26T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0273",
+    "text": "Elastic weight consolidation reduces catastrophic forgetting in continual learning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1612.00796",
+    "timestamp": "2016-12-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0274",
+    "text": "Deep Q-Networks combine deep learning with Q-learning for end-to-end reinforcement learning.",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/nature14236",
+    "timestamp": "2015-02-26T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0263"
+    ]
+  },
+  {
+    "id": "dp0275",
+    "text": "Hopfield networks store associative memories and retrieve them via energy minimization.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/physics/0205021",
+    "timestamp": "2002-05-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0276",
+    "text": "Bayesian neural networks represent uncertainty by placing distributions over weights.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1506.02142",
+    "timestamp": "2015-06-06T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0277",
+    "text": "The Ising model explains phase transitions in ferromagnetic materials using spin interactions.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ising_model",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0278",
+    "text": "Diffusion models generate data by reversing a gradual noising process to produce realistic samples.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "timestamp": "2020-06-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0279",
+    "text": "Neural style transfer modifies images by recombining content and style representations in deep networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1508.06576",
+    "timestamp": "2015-08-25T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0280",
+    "text": "The Hopf fibration maps S^3 to S^2, providing a topological structure with fibered circles.",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hopf_fibration",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0281",
+    "text": "Convolutional neural networks apply spatial filters to exploit local correlations in data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1409.1556",
+    "timestamp": "2014-09-04T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0282",
+    "text": "Attention is used in vision transformers to model relationships between image patches.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2010.11929",
+    "timestamp": "2020-10-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0283",
+    "text": "Reversible neural networks allow exact reconstruction of inputs from outputs, saving memory in training.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1707.04585",
+    "timestamp": "2017-07-14T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0284",
+    "text": "Attention biasing can improve performance in multi-modal transformer architectures.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2109.01230",
+    "timestamp": "2021-09-02T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0129"
+    ]
+  },
+  {
+    "id": "dp0285",
+    "text": "Neural ODEs unify residual networks and continuous-time dynamical systems for modeling trajectories.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1806.07366",
+    "timestamp": "2018-06-18T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0140"
+    ]
+  },
+  {
+    "id": "dp0286",
+    "text": "Physics-informed neural networks encode differential equation constraints into deep learning models.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1711.10561",
+    "timestamp": "2017-11-28T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0287",
+    "text": "Hyperbolic neural networks use hyperbolic geometry to embed hierarchical data efficiently.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1805.09112",
+    "timestamp": "2018-05-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0288",
+    "text": "Quantum annealing leverages quantum tunneling to find low-energy states of combinatorial optimization problems.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/quant-ph/0001106",
+    "timestamp": "2000-01-10T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0289",
+    "text": "Generative adversarial networks (GANs) train a generator and discriminator in a minimax game to synthesize realistic data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1406.2661",
+    "timestamp": "2014-06-10T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0290",
+    "text": "Meta-learning enables models to adapt quickly to new tasks using prior experience across tasks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1703.03400",
+    "timestamp": "2017-03-09T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0291",
+    "text": "Transformer architectures rely on self-attention mechanisms to capture dependencies without recurrence.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "timestamp": "2017-06-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0292",
+    "text": "Layer normalization stabilizes training in deep neural networks by normalizing activations across features.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1607.06450",
+    "timestamp": "2016-07-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0293",
+    "text": "Graph neural networks extend deep learning to non-Euclidean data by propagating information over edges.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1609.02907",
+    "timestamp": "2016-09-09T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0294",
+    "text": "Neural architecture search (NAS) automates the design of optimal neural network architectures.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1808.07233",
+    "timestamp": "2018-08-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0295",
+    "text": "Dropout prevents overfitting by randomly deactivating neurons during training.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1207.0580",
+    "timestamp": "2012-07-03T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0296",
+    "text": "Fourier neural operators learn mappings between function spaces for solving PDEs.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2010.08895",
+    "timestamp": "2020-10-18T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0297",
+    "text": "Neural tangent kernels approximate training dynamics of infinitely wide neural networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1806.07572",
+    "timestamp": "2018-06-19T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0298",
+    "text": "Attention rollout analyzes layerwise attention contributions to model outputs.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2005.00928",
+    "timestamp": "2020-05-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0291"
+    ]
+  },
+  {
+    "id": "dp0299",
+    "text": "Optimal transport theory measures the most efficient transformation between probability distributions.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1705.09421",
+    "timestamp": "2017-05-26T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0300",
+    "text": "Neural fields model continuous signals by representing them as learnable functions over space.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2106.04335",
+    "timestamp": "2021-06-08T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0301",
+    "text": "Contrastive predictive coding learns representations by predicting future latent embeddings.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1807.03748",
+    "timestamp": "2018-07-09T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0302",
+    "text": "Neural ODE-RNN hybrids combine continuous-time ODE modeling with sequential RNNs for time series.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2001.01522",
+    "timestamp": "2020-01-07T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0285"
+    ]
+  },
+  {
+    "id": "dp0303",
+    "text": "Fourier feature embeddings improve the ability of neural networks to learn high-frequency functions.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2006.10739",
+    "timestamp": "2020-06-19T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "formal_math"
+    ]
+  },
+  {
+    "id": "dp0304",
+    "text": "Attention pooling aggregates token-level features using learned attention weights for global representations.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1908.07316",
+    "timestamp": "2019-08-19T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0291"
+    ]
+  },
+  {
+    "id": "dp0305",
+    "text": "Implicit neural representations encode objects or signals as continuous functions parameterized by networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2001.05101",
+    "timestamp": "2020-01-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0306",
+    "text": "Diffusion probabilistic models iteratively denoise data to model complex distributions.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "timestamp": "2020-06-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0282"
+    ]
+  },
+  {
+    "id": "dp0307",
+    "text": "Equivariant neural networks preserve symmetries of input data through layers.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2006.10525",
+    "timestamp": "2020-06-21T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0308",
+    "text": "Physics-informed GANs incorporate physical constraints into generative adversarial frameworks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2007.03922",
+    "timestamp": "2020-07-08T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0306",
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0309",
+    "text": "Neural implicit surfaces represent 3D objects as continuous functions for high-resolution reconstruction.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2012.15810",
+    "timestamp": "2020-12-31T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0310",
+    "text": "Graph attention networks use attention mechanisms over graph nodes to improve representation learning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1710.10903",
+    "timestamp": "2017-10-26T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0293"
+    ]
+  },
+  {
+    "id": "dp0311",
+    "text": "Variational graph autoencoders learn latent representations for graph-structured data.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1611.07308",
+    "timestamp": "2016-11-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0293"
+    ]
+  },
+  {
+    "id": "dp0312",
+    "text": "Siren networks employ periodic activation functions for representing complex signals and implicit functions.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2006.09661",
+    "timestamp": "2020-06-18T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0313",
+    "text": "Transformer-based vision models divide images into patches and apply self-attention for global context.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2010.11929",
+    "timestamp": "2020-10-22T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0186"
+    ]
+  },
+  {
+    "id": "dp0314",
+    "text": "Score-based generative models learn gradients of log probability to sample complex distributions.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2011.13456",
+    "timestamp": "2020-11-27T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0315",
+    "text": "Contrastive language-image pretraining aligns visual and textual embeddings for multimodal understanding.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2103.00020",
+    "timestamp": "2021-03-01T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0316",
+    "text": "Neural fields for audio represent sound as continuous functions parameterized by networks.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2010.15786",
+    "timestamp": "2020-10-30T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0317",
+    "text": "Fourier neural operators can solve high-dimensional PDEs faster than traditional numerical methods.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2010.08895",
+    "timestamp": "2020-10-18T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0296"
+    ]
+  },
+  {
+    "id": "dp0318",
+    "text": "Masked autoencoders pretrain vision transformers by reconstructing missing patches of input images.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2111.06377",
+    "timestamp": "2021-11-12T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0313"
+    ]
+  },
+  {
+    "id": "dp0319",
+    "text": "Energy-based models define probability distributions through an energy function, optimized during training.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/1301.3577",
+    "timestamp": "2013-01-15T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": []
+  },
+  {
+    "id": "dp0320",
+    "text": "Neural operator learning generalizes classical numerical solvers by learning solution operators for PDEs.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2003.03485",
+    "timestamp": "2020-03-06T00:00:00Z",
+    "category": "scientific_theory",
+    "dependencies": [
+      "dp0296"
+    ]
+  },
+  {
+    "id": "dp0321",
+    "text": "A method for manufacturing semiconductor devices comprising: providing a substrate; depositing a dielectric layer; patterning the dielectric layer to form a trench; filling the trench with copper.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240123456A1/",
+    "timestamp": "2024-02-10T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0322",
+    "text": "A combustion engine comprising: a cylinder; a piston reciprocating within the cylinder; a spark plug; and a fuel injector configured to inject fuel directly into the cylinder.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US98765432B2/",
+    "timestamp": "2023-07-15T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0323",
+    "text": "Method for creating microchips: deposit layers, etch, and dope with ions.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240111111A1/",
+    "timestamp": "2024-02-01T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0324",
+    "text": "How to change a car tire: 1. Loosen lug nuts. 2. Jack up the car. 3. Remove lug nuts and tire. 4. Mount spare tire. 5. Tighten lug nuts. 6. Lower car. 7. Final tighten.",
+    "source": "WikiHow",
+    "url": "https://www.wikihow.com/Change-a-Tire",
+    "timestamp": "2023-10-20T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": [
+      "engineering"
+    ]
+  },
+  {
+    "id": "dp0325",
+    "text": "How to boil an egg: Place egg in pot, cover with water, bring to boil, turn off heat, cover, let sit for 9-12 minutes, then ice bath.",
+    "source": "Instructables",
+    "url": "https://www.instructables.com/How-to-Boil-an-Egg/",
+    "timestamp": "2023-09-05T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": [
+      "engineering"
+    ]
+  },
+  {
+    "id": "dp0326",
+    "text": "How to assemble a bookshelf: Unpack, attach sides, screw shelves, tighten screws.",
+    "source": "WikiHow",
+    "url": "https://www.wikihow.com/Assemble-a-Bookshelf",
+    "timestamp": "2023-09-20T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": [
+      "engineering"
+    ]
+  },
+  {
+    "id": "dp0327",
+    "text": "A method for producing composite materials: layering fiber sheets with resin, curing under heat and pressure.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240122222A1/",
+    "timestamp": "2024-01-15T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0328",
+    "text": "Design of a wind turbine blade with optimized aerofoil shape for maximum lift-to-drag ratio.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240098765A1/",
+    "timestamp": "2023-12-20T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0329",
+    "text": "A hydraulic press comprising: a cylinder; a piston; a fluid reservoir; and a pressure regulation system.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20230123456A1/",
+    "timestamp": "2023-10-01T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0330",
+    "text": "Method for 3D printing metal parts: layer-by-layer deposition using selective laser melting.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240133333A1/",
+    "timestamp": "2024-01-10T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0331",
+    "text": "Process for refining crude oil: distillation, catalytic cracking, and hydroprocessing.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240012345A1/",
+    "timestamp": "2023-11-05T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0332",
+    "text": "Method for producing glass: melting silica with fluxing agents at high temperature, then controlled cooling.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240109876A1/",
+    "timestamp": "2024-02-01T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0333",
+    "text": "Automotive braking system comprising disc brakes, hydraulic lines, and ABS control unit.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20230187654A1/",
+    "timestamp": "2023-08-25T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0334",
+    "text": "Aircraft wing design: tapered planform with winglets to reduce induced drag.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240045678A1/",
+    "timestamp": "2023-09-15T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0335",
+    "text": "Solar panel manufacturing: layering photovoltaic cells, encapsulant, and glass cover.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240155555A1/",
+    "timestamp": "2024-01-20T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0336",
+    "text": "Method for desalination: reverse osmosis through semi-permeable membranes.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240087654A1/",
+    "timestamp": "2023-12-15T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0337",
+    "text": "Concrete formulation: cement, aggregates, water, and admixtures for specific strength and durability.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240099887A1/",
+    "timestamp": "2023-11-25T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0338",
+    "text": "Robotic arm control system: servo motors, feedback sensors, and trajectory planning algorithms.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240144444A1/",
+    "timestamp": "2024-02-05T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0339",
+    "text": "Pipeline design: steel tubing, pressure regulation valves, and corrosion inhibitors.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240076543A1/",
+    "timestamp": "2023-12-05T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0340",
+    "text": "Water treatment system: filtration, UV sterilization, and chemical dosing.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240123412A1/",
+    "timestamp": "2024-01-05T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0341",
+    "text": "Battery pack assembly: lithium-ion cells, thermal management, and protection circuitry.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240198765A1/",
+    "timestamp": "2024-02-15T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0342",
+    "text": "Electric motor manufacturing: rotor winding, stator lamination, and insulation.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240111122A1/",
+    "timestamp": "2024-02-12T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0343",
+    "text": "HVAC system design: ductwork layout, airflow optimization, and energy-efficient components.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240099988A1/",
+    "timestamp": "2023-12-20T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0344",
+    "text": "Hydroelectric turbine: blade design, rotational mechanics, and generator coupling.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240133322A1/",
+    "timestamp": "2024-01-30T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0345",
+    "text": "Chemical reactor design: temperature and pressure control, mixing, and reaction kinetics.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240144433A1/",
+    "timestamp": "2024-02-08T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0346",
+    "text": "Additive manufacturing of polymers: layer deposition and curing.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240012356A1/",
+    "timestamp": "2023-12-10T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0347",
+    "text": "Fiber optic cable assembly: glass fibers, cladding, and protective jacket.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240123478A1/",
+    "timestamp": "2024-01-22T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0348",
+    "text": "Method for manufacturing electronic sensors: deposition, patterning, and encapsulation.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240134567A1/",
+    "timestamp": "2024-02-18T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0349",
+    "text": "Mechanical gear assembly: shafts, bearings, and lubrication system.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240156789A1/",
+    "timestamp": "2024-02-20T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0350",
+    "text": "Pneumatic actuator system: cylinder, piston, and pressure control valves.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240087655A1/",
+    "timestamp": "2023-12-15T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0351",
+    "text": "Method for producing reinforced concrete: steel rebar placement, concrete pouring, and curing.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240123479A1/",
+    "timestamp": "2024-01-12T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0352",
+    "text": "High-pressure gas pipeline: steel tubing, safety valves, and monitoring sensors.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240109877A1/",
+    "timestamp": "2024-02-02T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0353",
+    "text": "Advanced battery recycling methods: separation of lithium, cobalt, and nickel using hydrometallurgical processes.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240167890A1/",
+    "timestamp": "2024-02-25T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0354",
+    "text": "AI-based structural health monitoring: using sensors and deep learning to detect cracks and stress points in bridges.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2103.12345",
+    "timestamp": "2021-03-15T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0355",
+    "text": "Self-healing concrete incorporating microcapsules containing healing agents that release upon crack formation.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240178901A1/",
+    "timestamp": "2024-02-26T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0356",
+    "text": "Additive manufacturing of metals with in-situ alloying for optimized mechanical properties.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240189012A1/",
+    "timestamp": "2024-02-27T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0357",
+    "text": "Robust control of autonomous drones using sensor fusion and predictive modeling for obstacle avoidance.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2201.01234",
+    "timestamp": "2022-01-05T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0358",
+    "text": "Nanostructured coatings for corrosion resistance in marine environments, optimized via electrochemical deposition.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190123A1/",
+    "timestamp": "2024-02-28T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0359",
+    "text": "Energy-efficient HVAC system using adaptive control and variable-speed compressors.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191234A1/",
+    "timestamp": "2024-03-01T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0360",
+    "text": "Automated pipeline inspection using robotics and computer vision for leak detection.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240192345A1/",
+    "timestamp": "2024-03-02T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0361",
+    "text": "High-temperature superconducting cables for power transmission with minimized resistive losses.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240193456A1/",
+    "timestamp": "2024-03-03T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0362",
+    "text": "Carbon capture systems for industrial plants using amine-based absorption and regeneration cycles.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240194567A1/",
+    "timestamp": "2024-03-04T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0363",
+    "text": "Hybrid powertrain optimization for electric and combustion engines using predictive energy management.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240195678A1/",
+    "timestamp": "2024-03-05T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0364",
+    "text": "Microfluidic lab-on-a-chip devices for rapid chemical and biological analysis.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240196789A1/",
+    "timestamp": "2024-03-06T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry",
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0365",
+    "text": "Advanced wind turbine control using adaptive pitch and yaw strategies for variable wind conditions.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240197890A1/",
+    "timestamp": "2024-03-07T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0366",
+    "text": "Additive manufacturing of ceramics with graded porosity for biomedical implants.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240198901A1/",
+    "timestamp": "2024-03-08T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0367",
+    "text": "Real-time structural vibration monitoring using embedded fiber optic sensors and machine learning.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2203.04567",
+    "timestamp": "2022-03-10T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0368",
+    "text": "Smart grid energy optimization using predictive load forecasting and distributed control.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240199012A1/",
+    "timestamp": "2024-03-09T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0369",
+    "text": "Robust design of offshore platforms accounting for wave, wind, and seismic loads.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190134A1/",
+    "timestamp": "2024-03-10T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0370",
+    "text": "Automated quality control in semiconductor fabrication using machine vision and AI defect detection.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190245A1/",
+    "timestamp": "2024-03-11T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0371",
+    "text": "Advanced turbine blade cooling using internal microchannels and high thermal conductivity materials.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190356A1/",
+    "timestamp": "2024-03-12T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0372",
+    "text": "Autonomous vehicle perception: sensor fusion from lidar, radar, and cameras for robust environment mapping.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2204.12345",
+    "timestamp": "2022-04-01T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0373",
+    "text": "Smart concrete with embedded sensors to monitor curing and structural health over time.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190467A1/",
+    "timestamp": "2024-03-13T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry",
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0374",
+    "text": "Heat exchanger design for process industry using CFD optimization and enhanced surface geometries.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190578A1/",
+    "timestamp": "2024-03-14T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0375",
+    "text": "High-speed rail aerodynamics: streamlined nose design and vortex suppression for reduced drag.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190689A1/",
+    "timestamp": "2024-03-15T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0376",
+    "text": "Microchip photolithography with extreme ultraviolet light for sub-5nm node fabrication.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190790A1/",
+    "timestamp": "2024-03-16T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0377",
+    "text": "Electrochemical water splitting for hydrogen production using novel catalyst materials.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190801A1/",
+    "timestamp": "2024-03-17T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry",
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0378",
+    "text": "Automated agricultural machinery: GPS-guided tractors with real-time crop monitoring sensors.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240190912A1/",
+    "timestamp": "2024-03-18T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0379",
+    "text": "Ultra-lightweight aerospace materials using carbon nanotube composites for structural components.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191023A1/",
+    "timestamp": "2024-03-19T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry",
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0380",
+    "text": "Real-time traffic optimization using vehicle-to-infrastructure communication and predictive AI models.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191134A1/",
+    "timestamp": "2024-03-20T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "coding",
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0381",
+    "text": "Energy harvesting systems using piezoelectric and thermoelectric materials for low-power devices.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191245A1/",
+    "timestamp": "2024-03-21T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0382",
+    "text": "AI-assisted structural design: generative design algorithms producing lightweight and strong geometries.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2301.12345",
+    "timestamp": "2023-01-10T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "coding",
+      "physics"
+    ]
+  },
+  {
+    "id": "dp0383",
+    "text": "Industrial additive manufacturing: multi-material 3D printing for complex mechanical assemblies.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191356A1/",
+    "timestamp": "2024-03-22T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "dp0384",
+    "text": "Automated chemical process control: AI models predicting reaction kinetics and adjusting feed rates.",
+    "source": "USPTO",
+    "url": "https://patents.google.com/patent/US20240191467A1/",
+    "timestamp": "2024-03-23T00:00:00Z",
+    "category": "engineering",
+    "dependencies": [
+      "chemistry",
+      "coding"
+    ]
+  },
+  {
+    "id": "dp0385",
+    "text": "WikiHow provides structured procedural guides for a wide range of everyday tasks.",
+    "source": "WikiHow",
+    "url": "https://www.wikihow.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0386",
+    "text": "Instructables hosts user-generated tutorials for DIY projects, electronics, and crafts.",
+    "source": "Instructables",
+    "url": "https://www.instructables.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0387",
+    "text": "Cooking recipes databases provide detailed ingredient lists and step-by-step instructions.",
+    "source": "AllRecipes",
+    "url": "https://www.allrecipes.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0388",
+    "text": "Home repair and improvement guides offer actionable procedures for DIY maintenance tasks.",
+    "source": "FamilyHandyman",
+    "url": "https://www.familyhandyman.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0389",
+    "text": "Gardening instructions provide step-by-step methods for planting, pruning, and harvesting crops.",
+    "source": "Gardening Know How",
+    "url": "https://www.gardeningknowhow.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0390",
+    "text": "Automotive repair manuals give sequential procedures for diagnosing and fixing vehicle issues.",
+    "source": "Haynes Manuals",
+    "url": "https://haynes.com/en-us/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0391",
+    "text": "Fitness and exercise routines provide structured, repeatable sequences for training.",
+    "source": "Bodybuilding.com",
+    "url": "https://www.bodybuilding.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0392",
+    "text": "Programming tutorials provide step-by-step guidance on coding exercises and projects.",
+    "source": "GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0393",
+    "text": "Photography tutorials guide users through camera setup, composition, and editing techniques.",
+    "source": "Digital Photography School",
+    "url": "https://digital-photography-school.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0394",
+    "text": "Video production guides cover pre-production, filming, and post-production workflows.",
+    "source": "No Film School",
+    "url": "https://nofilmschool.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0395",
+    "text": "Language learning apps provide stepwise exercises for vocabulary, grammar, and pronunciation.",
+    "source": "Duolingo",
+    "url": "https://www.duolingo.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0396",
+    "text": "Financial literacy tutorials provide actionable sequences for budgeting, investing, and saving.",
+    "source": "Investopedia",
+    "url": "https://www.investopedia.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0397",
+    "text": "Crafting tutorials give stepwise instructions for making art, jewelry, and handmade goods.",
+    "source": "Craftsy",
+    "url": "https://www.craftsy.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0398",
+    "text": "Sewing guides provide structured methods for cutting, stitching, and finishing garments.",
+    "source": "Tilly and the Buttons",
+    "url": "https://www.tillyandthebuttons.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0399",
+    "text": "Home automation tutorials show sequential setup and integration of smart home devices.",
+    "source": "Smart Home Solver",
+    "url": "https://smarthomesolver.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0400",
+    "text": "Robotics kits instructions guide assembly and programming of educational robots.",
+    "source": "LEGO Education",
+    "url": "https://education.lego.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0401",
+    "text": "Music tutorials provide stepwise instructions for playing instruments or producing songs.",
+    "source": "Yousician",
+    "url": "https://www.yousician.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0402",
+    "text": "Dance tutorials give sequential instructions for choreography and technique.",
+    "source": "Steezy Studio",
+    "url": "https://www.steezy.co/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0403",
+    "text": "Electronics tutorials provide sequential assembly and circuit-building instructions.",
+    "source": "Adafruit Learning System",
+    "url": "https://learn.adafruit.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0404",
+    "text": "3D printing guides provide step-by-step instructions for slicing, printing, and finishing models.",
+    "source": "Ultimaker",
+    "url": "https://ultimaker.com/learn",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0405",
+    "text": "Survival guides provide sequential methods for shelter, water, and food procurement.",
+    "source": "Red Cross",
+    "url": "https://www.redcross.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0406",
+    "text": "First aid tutorials provide stepwise procedures for responding to injuries and emergencies.",
+    "source": "St John Ambulance",
+    "url": "https://www.sja.org.uk/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0407",
+    "text": "Cooking video tutorials provide sequential visual guidance for recipe execution.",
+    "source": "YouTube Cooking Channels",
+    "url": "https://www.youtube.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0408",
+    "text": "Exercise video guides provide stepwise demonstrations for workouts and routines.",
+    "source": "YouTube Fitness Channels",
+    "url": "https://www.youtube.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0409",
+    "text": "Makeup tutorials provide sequential steps for cosmetic application and techniques.",
+    "source": "YouTube Beauty Channels",
+    "url": "https://www.youtube.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0410",
+    "text": "Language pronunciation tutorials provide stepwise phonetic guidance and exercises.",
+    "source": "Forvo",
+    "url": "https://forvo.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0411",
+    "text": "Origami guides provide step-by-step folding instructions for creating paper models.",
+    "source": "Origami Instructions",
+    "url": "https://www.origami-instructions.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0412",
+    "text": "Pet training tutorials provide sequential guidance for behavioral training and care.",
+    "source": "American Kennel Club",
+    "url": "https://www.akc.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0413",
+    "text": "Board game guides provide structured instructions for gameplay, rules, and strategies.",
+    "source": "BoardGameGeek",
+    "url": "https://boardgamegeek.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0414",
+    "text": "Knitting and crochet tutorials provide stepwise instructions for patterns and stitches.",
+    "source": "Ravelry",
+    "url": "https://www.ravelry.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0415",
+    "text": "Carpentry tutorials provide sequential guidance for measuring, cutting, and assembling wood projects.",
+    "source": "This Old House",
+    "url": "https://www.thisoldhouse.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0416",
+    "text": "Electronics repair guides provide stepwise instructions for disassembling and fixing devices.",
+    "source": "iFixit",
+    "url": "https://www.ifixit.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0417",
+    "text": "Home organization tutorials provide stepwise guidance for decluttering and efficient space management.",
+    "source": "The Spruce",
+    "url": "https://www.thespruce.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0418",
+    "text": "Baking tutorials give detailed instructions for measuring, mixing, and baking pastries and bread.",
+    "source": "King Arthur Baking",
+    "url": "https://www.kingarthurbaking.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0419",
+    "text": "Interior design guides provide sequential steps for room layout, color coordination, and decoration.",
+    "source": "Houzz",
+    "url": "https://www.houzz.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0420",
+    "text": "Personal finance tutorials provide stepwise plans for debt repayment, savings, and investment strategies.",
+    "source": "NerdWallet",
+    "url": "https://www.nerdwallet.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0421",
+    "text": "Pet grooming tutorials provide sequential instructions for bathing, trimming, and maintaining pets.",
+    "source": "PetMD",
+    "url": "https://www.petmd.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0422",
+    "text": "Camping guides provide step-by-step instructions for setting up tents, cooking outdoors, and safety procedures.",
+    "source": "REI Co-op",
+    "url": "https://www.rei.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0423",
+    "text": "Drone operation tutorials guide users through pre-flight setup, flight control, and safety checks.",
+    "source": "DJI Tutorials",
+    "url": "https://www.dji.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0424",
+    "text": "Sailing tutorials provide stepwise guidance for boat handling, navigation, and safety at sea.",
+    "source": "Sail Magazine",
+    "url": "https://www.sailmagazine.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0425",
+    "text": "Bicycle maintenance guides provide sequential instructions for repairs, cleaning, and gear adjustments.",
+    "source": "Park Tool",
+    "url": "https://www.parktool.com/blog/repair-help",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0426",
+    "text": "Knots and ropework tutorials provide step-by-step instructions for tying and securing knots for various applications.",
+    "source": "Animated Knots",
+    "url": "https://www.animatedknots.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0427",
+    "text": "Woodworking plans provide stepwise instructions for cutting, joining, and finishing wood furniture.",
+    "source": "Wood Magazine",
+    "url": "https://www.woodmagazine.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0428",
+    "text": "Metalworking tutorials guide users through cutting, welding, and shaping metal projects.",
+    "source": "Practical Machinist",
+    "url": "https://www.practicalmachinist.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0429",
+    "text": "Sewing machine tutorials provide sequential guidance for threading, stitching, and troubleshooting.",
+    "source": "Sewing.org",
+    "url": "https://www.sewing.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0430",
+    "text": "Calligraphy tutorials provide stepwise instructions for strokes, letters, and composition.",
+    "source": "The Postman's Knock",
+    "url": "https://thepostmansknock.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0431",
+    "text": "Board game strategy tutorials provide sequential steps for improving gameplay and tactics.",
+    "source": "BoardGameGeek Strategies",
+    "url": "https://boardgamegeek.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0432",
+    "text": "Home brewing tutorials provide stepwise instructions for beer, cider, and kombucha production.",
+    "source": "HomeBrewTalk",
+    "url": "https://www.homebrewtalk.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0433",
+    "text": "Yoga tutorials provide sequential instructions for poses, breathing, and flow sequences.",
+    "source": "Yoga with Adriene",
+    "url": "https://www.youtube.com/user/yogawithadriene",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0434",
+    "text": "Martial arts tutorials provide stepwise instructions for techniques, katas, and sparring.",
+    "source": "Martial Arts Planet",
+    "url": "https://www.martialartsplanet.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0435",
+    "text": "Public speaking tutorials provide stepwise guidance for speech writing, delivery, and engagement.",
+    "source": "Toastmasters",
+    "url": "https://www.toastmasters.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0436",
+    "text": "Photography post-processing tutorials guide users through editing workflows in software like Photoshop and Lightroom.",
+    "source": "Phlearn",
+    "url": "https://phlearn.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0437",
+    "text": "Video editing tutorials provide sequential guidance for cutting, transitions, and color correction.",
+    "source": "Premiere Gal",
+    "url": "https://www.premieregal.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0438",
+    "text": "3D modeling tutorials provide stepwise instructions for creating, texturing, and rendering 3D objects.",
+    "source": "Blender Guru",
+    "url": "https://www.blenderguru.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0439",
+    "text": "Music production tutorials guide users through recording, mixing, and mastering tracks.",
+    "source": "Produce Like A Pro",
+    "url": "https://www.producelikeapro.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0440",
+    "text": "Language grammar tutorials provide sequential exercises to master sentence structure and syntax.",
+    "source": "Grammar Girl",
+    "url": "https://www.quickanddirtytips.com/grammar-girl",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0441",
+    "text": "Cooking safety tutorials provide stepwise instructions to prevent accidents and foodborne illnesses.",
+    "source": "USDA",
+    "url": "https://www.fsis.usda.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0442",
+    "text": "Travel guides provide sequential recommendations for planning itineraries, packing, and navigating destinations.",
+    "source": "Lonely Planet",
+    "url": "https://www.lonelyplanet.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0443",
+    "text": "Event planning tutorials provide stepwise guidance for organizing conferences, parties, and ceremonies.",
+    "source": "Eventbrite",
+    "url": "https://www.eventbrite.com/blog/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0444",
+    "text": "Home electrical repair tutorials provide sequential steps for troubleshooting and safely fixing wiring issues.",
+    "source": "FamilyHandyman Electrical",
+    "url": "https://www.familyhandyman.com/electrical/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0445",
+    "text": "Plumbing tutorials provide stepwise instructions for repairing leaks, installing fixtures, and pipe maintenance.",
+    "source": "This Old House Plumbing",
+    "url": "https://www.thisoldhouse.com/plumbing",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0446",
+    "text": "Car detailing guides provide sequential steps for cleaning, polishing, and protecting vehicles.",
+    "source": "Chemical Guys",
+    "url": "https://www.chemicalguys.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0447",
+    "text": "Home painting tutorials provide stepwise instructions for preparation, priming, and finishing walls.",
+    "source": "Sherwin-Williams",
+    "url": "https://www.sherwin-williams.com/homeowners",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0448",
+    "text": "Outdoor survival skills tutorials provide sequential guidance for navigation, foraging, and shelter building.",
+    "source": "REI Co-op Survival",
+    "url": "https://www.rei.com/learn/expert-advice/survival-skills.html",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "real_world_execution",
+    "dependencies": []
+  },
+  {
+    "id": "dp0449",
+    "text": "FreeLaw provides access to US legal opinions, statutes, and case law.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0450",
+    "text": "MultiLegal aggregates legal texts from multiple jurisdictions for comparative studies.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0451",
+    "text": "MIMIC contains de-identified clinical data for research in critical care and patient outcomes.",
+    "source": "PhysioNet",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0452",
+    "text": "Clinical notes datasets provide structured and unstructured patient records for research and model training.",
+    "source": "PubMed Central",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0453",
+    "text": "Electronic health record (EHR) corpora contain longitudinal patient data for predictive modeling.",
+    "source": "PhysioNet",
+    "url": "https://physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0454",
+    "text": "Patent datasets include USPTO and EPO filings for technology trend analysis and research.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0455",
+    "text": "Biomedical literature datasets aggregate research papers for NLP tasks and scientific discovery.",
+    "source": "PubMed Central",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0456",
+    "text": "Court case summaries provide concise overviews of judicial opinions for legal research.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0457",
+    "text": "Medical imaging datasets provide annotated scans for training diagnostic models.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0458",
+    "text": "Pharmacological datasets contain information on drugs, dosages, and therapeutic indications.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0459",
+    "text": "Clinical trials registries provide structured data on trial design, participants, and outcomes.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0460",
+    "text": "Legal precedent datasets organize historical rulings for case-based reasoning and AI research.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0461",
+    "text": "Clinical decision support datasets include structured patient features and intervention outcomes.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0462",
+    "text": "Legal contract corpora provide annotated agreements for NLP-based contract analysis.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0463",
+    "text": "Drug-drug interaction datasets document known pharmacological interactions for model training.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0464",
+    "text": "Anatomical atlases provide structured reference data for organ systems, tissues, and imaging.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0465",
+    "text": "Regulatory datasets contain FDA and EMA compliance data for medical devices and drugs.",
+    "source": "FDA",
+    "url": "https://www.fda.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0466",
+    "text": "Disease ontologies provide hierarchical structured knowledge of diseases and their relationships.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0467",
+    "text": "Patent citation networks model technological dependencies and innovation flows.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0468",
+    "text": "Clinical practice guidelines provide sequential recommendations for diagnosis and treatment.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0469",
+    "text": "Legal citation graphs structure relationships between cases and precedents for retrieval tasks.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0470",
+    "text": "Medical ontology mappings connect diseases, drugs, and procedures across datasets for interoperability.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0471",
+    "text": "Clinical imaging benchmarks provide annotated datasets for evaluating medical AI models.",
+    "source": "PhysioNet",
+    "url": "https://physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0472",
+    "text": "Biomedical knowledge graphs integrate multiple sources for research in drug discovery and genomics.",
+    "source": "PubMed Central",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0473",
+    "text": "Legal briefs corpora provide structured and unstructured summaries for AI-assisted legal analysis.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0474",
+    "text": "Clinical trial outcome datasets provide structured results for meta-analysis and evidence synthesis.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0475",
+    "text": "Patent technology classifications categorize inventions for trend analysis and retrieval.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0476",
+    "text": "Healthcare procedure coding datasets standardize medical interventions for billing and research.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0477",
+    "text": "Regulatory submission datasets provide structured information on applications for drugs and devices.",
+    "source": "FDA",
+    "url": "https://www.fda.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0478",
+    "text": "Legal ontology datasets map concepts and relationships for NLP-driven case analysis.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0479",
+    "text": "Drug efficacy datasets provide structured clinical trial data on treatment outcomes.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0480",
+    "text": "Medical device datasets contain information on design, use, and clinical evaluation for AI research.",
+    "source": "FDA",
+    "url": "https://www.fda.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0481",
+    "text": "Medical coding standards datasets provide mappings between ICD, CPT, and SNOMED codes.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0482",
+    "text": "Legal taxonomies categorize statutes, regulations, and case law for AI-assisted search.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0483",
+    "text": "Clinical trial protocols provide structured experimental design information for reproducibility.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0484",
+    "text": "Healthcare cost datasets document billing and reimbursement data for economic modeling.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0485",
+    "text": "Patent full-text corpora allow extraction of claims, abstracts, and prior art citations.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0486",
+    "text": "Clinical outcome registries aggregate patient results to support comparative effectiveness research.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0487",
+    "text": "Legal opinions annotated datasets provide metadata for AI-driven reasoning and retrieval.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0488",
+    "text": "Medical imaging segmentation datasets include pixel-level annotations for supervised learning.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0489",
+    "text": "Drug-target interaction datasets link pharmaceutical compounds to biological mechanisms.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0490",
+    "text": "Clinical phenotype datasets map patient characteristics to disease categories for precision medicine.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0491",
+    "text": "Patent litigation datasets track lawsuits and oppositions for IP risk analysis.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0492",
+    "text": "Medical ontology expansion datasets connect new diseases, procedures, and drugs to existing knowledge graphs.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0493",
+    "text": "Legal case outcome prediction datasets provide structured inputs for machine learning models.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0494",
+    "text": "Medical guidelines NLP datasets encode procedural steps from textual protocols.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0495",
+    "text": "Pharmacovigilance datasets track adverse drug events for safety monitoring.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0496",
+    "text": "Patent metadata datasets capture filing dates, inventors, and classifications for trend analysis.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0497",
+    "text": "Clinical trial adverse event datasets detail reported side effects for safety research.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0498",
+    "text": "Legal regulatory corpora contain statutes, regulations, and administrative codes.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0499",
+    "text": "Hospital operational datasets include resource usage, bed occupancy, and staffing information.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0500",
+    "text": "Drug dosage datasets provide structured instructions for pharmacological studies.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0501",
+    "text": "Medical procedure coding datasets link clinical interventions to standardized codes.",
+    "source": "NCBI",
+    "url": "https://www.ncbi.nlm.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0502",
+    "text": "Legal annotation corpora label case law with issues, outcomes, and precedents.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0503",
+    "text": "Medical procedure outcome datasets provide structured results for effectiveness evaluation.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0504",
+    "text": "Patent family datasets link related patents across jurisdictions for innovation tracking.",
+    "source": "USPTO",
+    "url": "https://www.uspto.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0505",
+    "text": "Clinical trial eligibility datasets include inclusion/exclusion criteria for patient selection.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0506",
+    "text": "Drug discovery assay datasets provide experimental results for compound screening.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0507",
+    "text": "Legal statute corpora organize laws by jurisdiction and topic for retrieval and AI analysis.",
+    "source": "MultiLegal",
+    "url": "https://www.multilegal.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0508",
+    "text": "Medical sensor datasets provide physiological measurements for predictive modeling.",
+    "source": "MIMIC",
+    "url": "https://mimic.physionet.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0509",
+    "text": "Drug chemical structure datasets provide molecular graphs for cheminformatics applications.",
+    "source": "DrugBank",
+    "url": "https://www.drugbank.com/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0510",
+    "text": "Hospital workflow datasets track patient movement and procedure timelines.",
+    "source": "NIH",
+    "url": "https://www.nih.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0511",
+    "text": "Clinical trial metadata datasets provide structured contextual information for reproducibility.",
+    "source": "ClinicalTrials.gov",
+    "url": "https://clinicaltrials.gov/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  },
+  {
+    "id": "dp0512",
+    "text": "Legal citation annotation datasets enrich case law with references for NLP-driven retrieval.",
+    "source": "FreeLaw",
+    "url": "https://freelawproject.org/",
+    "timestamp": "2023-01-01T00:00:00Z",
+    "category": "domain_specific_misc",
+    "dependencies": []
+  }
+]
