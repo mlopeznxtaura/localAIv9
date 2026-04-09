@@ -1,0 +1,3 @@
+{"prompt": "Build a task manager", "output": "{\"task\": \"create_task_manager\", \"features\": [\"drag_drop\", \"boards\"]}"}
+{"prompt": "{\"features\": [{\"name\": \"boards\"}]}", "output": "{\"screens\": [{\"name\": \"BoardView\"}]}"}
+{"prompt": "Create project timeline", "output": "{\"tasks\": [{\"id\": \"T001\"}]}"}
