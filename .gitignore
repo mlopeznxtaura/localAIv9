@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.llm_cache/
+session_*.jsonl
+telemetry/
+training_data/

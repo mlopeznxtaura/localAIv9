@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": "T001",
+      "title": "T001",
+      "depends_on": [],
+      "layer": "fullstack",
+      "est_seconds": 60,
+      "file": "output/T001.py",
+      "status": "pending"
+    },
+    {
+      "id": "T002",
+      "title": "T002",
+      "depends_on": [
+        "T001"
+      ],
+      "layer": "fullstack",
+      "est_seconds": 60,
+      "file": "output/T002.py",
+      "status": "pending"
+    },
+    {
+      "id": "T003",
+      "title": "T003",
+      "depends_on": [
+        "T001",
+        "T002"
+      ],
+      "layer": "fullstack",
+      "est_seconds": 60,
+      "file": "output/T003.py",
+      "status": "pending"
+    },
+    {
+      "id": "T004",
+      "title": "T004",
+      "depends_on": [
+        "T001",
+        "T002",
+        "T003"
+      ],
+      "layer": "fullstack",
+      "est_seconds": 60,
+      "file": "output/T004.py",
+      "status": "pending"
+    }
+  ]
+}

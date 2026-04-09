@@ -1,0 +1,135 @@
+{
+  "features": [
+    {
+      "name": "Weather Display",
+      "layer": "fullstack"
+    }
+  ],
+  "dag": [
+    {
+      "id": "Fetch weather data",
+      "depends_on": []
+    },
+    {
+      "id": "Display weather information",
+      "depends_on": [
+        "Fetch weather data"
+      ]
+    }
+  ],
+  "ui_structure": [
+    {
+      "id": "weather_dashboard_page",
+      "type": "page",
+      "components": [
+        {
+          "id": "app_header",
+          "type": "Header",
+          "props": {
+            "title": "Weather Display",
+            "subtitle": "Real-time updates (Mock Data)"
+          }
+        },
+        {
+          "id": "location_search_bar",
+          "type": "SearchBar",
+          "props": {
+            "placeholder": "Enter location (e.g. London, Tokyo)",
+            "action": "Fetch weather data",
+            "label": "Location"
+          }
+        },
+        {
+          "id": "current_weather_card",
+          "type": "WeatherCard",
+          "props": {
+            "location": "Mock City",
+            "temperature": "22\u00b0C",
+            "condition": "Partly Cloudy",
+            "humidity": "45%",
+            "wind_speed": "12 km/h"
+          }
+        },
+        {
+          "id": "recent_locations_list",
+          "type": "List",
+          "props": {
+            "title": "Recent Locations",
+            "items": [
+              "New York",
+              "London",
+              "Tokyo",
+              "Paris"
+            ]
+          }
+        }
+      ],
+      "routes": "/dashboard",
+      "tabs": null
+    },
+    {
+      "id": "weather_details_modal",
+      "type": "modal",
+      "components": [
+        {
+          "id": "detailed_weather_info",
+          "type": "WeatherDetailsPanel",
+          "props": {
+            "pressure": "1013 hPa",
+            "uv_index": "4",
+            "visibility": "10 km",
+            "dew_point": "12\u00b0C"
+          }
+        }
+      ],
+      "routes": null,
+      "tabs": null
+    }
+  ],
+  "theme": {
+    "style": "modern-minimal",
+    "color_palette": {
+      "primary": "#6C63FF",
+      "secondary": "#3F3D56",
+      "background": "#F8F9FA",
+      "text": "#2D3436",
+      "accent": "#00B894"
+    },
+    "typography": {
+      "font_family": "Inter, sans-serif",
+      "scale": "1.25"
+    },
+    "spacing": {
+      "base_unit": "8px"
+    },
+    "components": {
+      "button_variant": "rounded",
+      "input_variant": "outlined",
+      "card_style": "elevated"
+    }
+  },
+  "validation_report": {
+    "routing_ok": true,
+    "theme_consistency": true,
+    "edge_cases": []
+  },
+  "schedule": [
+    {
+      "id": "T001",
+      "delay_seconds": 1200,
+      "depends_on": [],
+      "file": "output/T001.py"
+    },
+    {
+      "id": "T002",
+      "delay_seconds": 1200,
+      "depends_on": [
+        "T001"
+      ],
+      "file": "output/T002.py"
+    }
+  ],
+  "cron_factor": 20,
+  "tasks_file": "tasks.json",
+  "tests_file": "tests.json"
+}

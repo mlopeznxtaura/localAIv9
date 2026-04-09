@@ -1,0 +1,35 @@
+[
+  {
+    "id": "T001",
+    "delay_seconds": 1200,
+    "depends_on": [],
+    "file": "output/T001.py"
+  },
+  {
+    "id": "T002",
+    "delay_seconds": 1200,
+    "depends_on": [
+      "T001"
+    ],
+    "file": "output/T002.py"
+  },
+  {
+    "id": "T003",
+    "delay_seconds": 1200,
+    "depends_on": [
+      "T001",
+      "T002"
+    ],
+    "file": "output/T003.py"
+  },
+  {
+    "id": "T004",
+    "delay_seconds": 1200,
+    "depends_on": [
+      "T001",
+      "T002",
+      "T003"
+    ],
+    "file": "output/T004.py"
+  }
+]

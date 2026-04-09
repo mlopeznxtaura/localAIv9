@@ -1,0 +1,22 @@
+[
+  {
+    "task_id": "T001",
+    "test_code": "def test_smoke():\n    assert True\n\ntest_smoke()\n",
+    "valid": true
+  },
+  {
+    "task_id": "T002",
+    "test_code": "def test_smoke():\n    assert True\n\ntest_smoke()\n",
+    "valid": true
+  },
+  {
+    "task_id": "T003",
+    "test_code": "def test_smoke():\n    assert True\n\ntest_smoke()\n",
+    "valid": true
+  },
+  {
+    "task_id": "T004",
+    "test_code": "def test_smoke():\n    assert True\n\ntest_smoke()\n",
+    "valid": true
+  }
+]

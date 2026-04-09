@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-04-08T14:11:44.134878",
+  "session_id": "c08e7c25-db5b-4512-871a-762d2bd16ee6",
+  "dataset_file": "output/finetune_dataset.jsonl",
+  "artifact_snapshot_file": "output/artifact_c08e7c25-db5b-4512-871a-762d2bd16ee6.json",
+  "training_stream_file": "training_data/stream.jsonl",
+  "session_records": 0,
+  "dataset_examples": 0,
+  "torch_available": false,
+  "unsloth_available": false,
+  "ready_for_finetune": false
+}
